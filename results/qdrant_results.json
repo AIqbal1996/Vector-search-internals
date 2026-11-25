@@ -290,34 +290,6 @@
     "2": [
       {
         "rank": 1,
-        "id": 250,
-        "score": 0.77025497,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1250",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 220,
-        "score": 0.77025497,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1220",
-            "city": "New York",
-            "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 270,
         "score": 0.77025497,
         "payload": {
@@ -331,21 +303,21 @@
         }
       },
       {
-        "rank": 4,
-        "id": 280,
+        "rank": 2,
+        "id": 200,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1280",
+            "account_last4": "1200",
             "city": "New York",
-            "record_index": 80
+            "record_index": 0
           }
         }
       },
       {
-        "rank": 5,
+        "rank": 3,
         "id": 290,
         "score": 0.77025497,
         "payload": {
@@ -359,35 +331,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": 260,
-        "score": 0.77025497,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1260",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 230,
-        "score": 0.77025497,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1230",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "id": 240,
         "score": 0.77025497,
         "payload": {
@@ -401,7 +345,77 @@
         }
       },
       {
+        "rank": 5,
+        "id": 250,
+        "score": 0.77025497,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1250",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 230,
+        "score": 0.77025497,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1230",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 220,
+        "score": 0.77025497,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1220",
+            "city": "New York",
+            "record_index": 20
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 260,
+        "score": 0.77025497,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1260",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
         "rank": 9,
+        "id": 280,
+        "score": 0.77025497,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1280",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 10,
         "id": 210,
         "score": 0.77025497,
         "payload": {
@@ -413,48 +427,34 @@
             "record_index": 10
           }
         }
-      },
-      {
-        "rank": 10,
-        "id": 200,
-        "score": 0.77025497,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1200",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
       }
     ],
     "3": [
       {
         "rank": 1,
-        "id": 390,
+        "id": 310,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1390",
+            "account_last4": "1310",
             "city": "New York",
-            "record_index": 90
+            "record_index": 10
           }
         }
       },
       {
         "rank": 2,
-        "id": 380,
+        "id": 350,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1380",
+            "account_last4": "1350",
             "city": "New York",
-            "record_index": 80
+            "record_index": 50
           }
         }
       },
@@ -488,6 +488,34 @@
       },
       {
         "rank": 5,
+        "id": 370,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1370",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 380,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1380",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 7,
         "id": 340,
         "score": 0.85499597,
         "payload": {
@@ -497,34 +525,6 @@
             "account_last4": "1340",
             "city": "New York",
             "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 330,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1330",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 310,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1310",
-            "city": "New York",
-            "record_index": 10
           }
         }
       },
@@ -544,29 +544,29 @@
       },
       {
         "rank": 9,
-        "id": 350,
+        "id": 390,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1350",
+            "account_last4": "1390",
             "city": "New York",
-            "record_index": 50
+            "record_index": 90
           }
         }
       },
       {
         "rank": 10,
-        "id": 370,
+        "id": 330,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1370",
+            "account_last4": "1330",
             "city": "New York",
-            "record_index": 70
+            "record_index": 30
           }
         }
       }
@@ -574,20 +574,34 @@
     "4": [
       {
         "rank": 1,
-        "id": 451,
+        "id": 421,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1451",
+            "account_last4": "1421",
             "city": "London",
-            "record_index": 51
+            "record_index": 21
           }
         }
       },
       {
         "rank": 2,
+        "id": 461,
+        "score": 0.807443,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1461",
+            "city": "London",
+            "record_index": 61
+          }
+        }
+      },
+      {
+        "rank": 3,
         "id": 471,
         "score": 0.807443,
         "payload": {
@@ -601,49 +615,7 @@
         }
       },
       {
-        "rank": 3,
-        "id": 431,
-        "score": 0.807443,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1431",
-            "city": "London",
-            "record_index": 31
-          }
-        }
-      },
-      {
         "rank": 4,
-        "id": 441,
-        "score": 0.807443,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1441",
-            "city": "London",
-            "record_index": 41
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 491,
-        "score": 0.807443,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1491",
-            "city": "London",
-            "record_index": 91
-          }
-        }
-      },
-      {
-        "rank": 6,
         "id": 411,
         "score": 0.807443,
         "payload": {
@@ -657,30 +629,58 @@
         }
       },
       {
-        "rank": 7,
-        "id": 481,
+        "rank": 5,
+        "id": 451,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1481",
+            "account_last4": "1451",
             "city": "London",
-            "record_index": 81
+            "record_index": 51
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 491,
+        "score": 0.807443,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1491",
+            "city": "London",
+            "record_index": 91
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 431,
+        "score": 0.807443,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1431",
+            "city": "London",
+            "record_index": 31
           }
         }
       },
       {
         "rank": 8,
-        "id": 421,
+        "id": 441,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1421",
+            "account_last4": "1441",
             "city": "London",
-            "record_index": 21
+            "record_index": 41
           }
         }
       },
@@ -700,15 +700,15 @@
       },
       {
         "rank": 10,
-        "id": 461,
+        "id": 481,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1461",
+            "account_last4": "1481",
             "city": "London",
-            "record_index": 61
+            "record_index": 81
           }
         }
       }
@@ -716,62 +716,20 @@
     "5": [
       {
         "rank": 1,
-        "id": 510,
+        "id": 560,
         "score": 0.80799234,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1510",
+            "account_last4": "1560",
             "city": "New York",
-            "record_index": 10
+            "record_index": 60
           }
         }
       },
       {
         "rank": 2,
-        "id": 580,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1580",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 500,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1500",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 590,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1590",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 5,
         "id": 540,
         "score": 0.80799234,
         "payload": {
@@ -785,7 +743,21 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 3,
+        "id": 550,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1550",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 4,
         "id": 530,
         "score": 0.80799234,
         "payload": {
@@ -799,7 +771,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 5,
         "id": 520,
         "score": 0.80799234,
         "payload": {
@@ -813,16 +785,44 @@
         }
       },
       {
-        "rank": 8,
-        "id": 550,
+        "rank": 6,
+        "id": 500,
         "score": 0.80799234,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1550",
+            "account_last4": "1500",
             "city": "New York",
-            "record_index": 50
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 590,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1590",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 510,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1510",
+            "city": "New York",
+            "record_index": 10
           }
         }
       },
@@ -842,15 +842,15 @@
       },
       {
         "rank": 10,
-        "id": 560,
+        "id": 580,
         "score": 0.80799234,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1560",
+            "account_last4": "1580",
             "city": "New York",
-            "record_index": 60
+            "record_index": 80
           }
         }
       }
@@ -858,57 +858,57 @@
     "6": [
       {
         "rank": 1,
-        "id": 611,
+        "id": 621,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1611",
+            "account_last4": "1621",
             "city": "London",
-            "record_index": 11
+            "record_index": 21
           }
         }
       },
       {
         "rank": 2,
-        "id": 601,
+        "id": 691,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1601",
+            "account_last4": "1691",
             "city": "London",
-            "record_index": 1
+            "record_index": 91
           }
         }
       },
       {
         "rank": 3,
-        "id": 651,
+        "id": 641,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1651",
+            "account_last4": "1641",
             "city": "London",
-            "record_index": 51
+            "record_index": 41
           }
         }
       },
       {
         "rank": 4,
-        "id": 681,
+        "id": 671,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1681",
+            "account_last4": "1671",
             "city": "London",
-            "record_index": 81
+            "record_index": 71
           }
         }
       },
@@ -928,6 +928,62 @@
       },
       {
         "rank": 6,
+        "id": 601,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1601",
+            "city": "London",
+            "record_index": 1
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 651,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1651",
+            "city": "London",
+            "record_index": 51
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 611,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1611",
+            "city": "London",
+            "record_index": 11
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 681,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1681",
+            "city": "London",
+            "record_index": 81
+          }
+        }
+      },
+      {
+        "rank": 10,
         "id": 661,
         "score": 0.80160105,
         "payload": {
@@ -939,151 +995,11 @@
             "record_index": 61
           }
         }
-      },
-      {
-        "rank": 7,
-        "id": 671,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1671",
-            "city": "London",
-            "record_index": 71
-          }
-        }
-      },
-      {
-        "rank": 8,
-        "id": 641,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1641",
-            "city": "London",
-            "record_index": 41
-          }
-        }
-      },
-      {
-        "rank": 9,
-        "id": 621,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1621",
-            "city": "London",
-            "record_index": 21
-          }
-        }
-      },
-      {
-        "rank": 10,
-        "id": 691,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1691",
-            "city": "London",
-            "record_index": 91
-          }
-        }
       }
     ],
     "7": [
       {
         "rank": 1,
-        "id": 760,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1760",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 770,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1770",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 710,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1710",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 750,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1750",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 700,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1700",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 720,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1720",
-            "city": "New York",
-            "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 7,
         "id": 780,
         "score": 0.8093573,
         "payload": {
@@ -1097,16 +1013,100 @@
         }
       },
       {
-        "rank": 8,
-        "id": 740,
+        "rank": 2,
+        "id": 720,
         "score": 0.8093573,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1740",
+            "account_last4": "1720",
             "city": "New York",
-            "record_index": 40
+            "record_index": 20
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 760,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1760",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 4,
+        "id": 770,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1770",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 730,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1730",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 750,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1750",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 710,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1710",
+            "city": "New York",
+            "record_index": 10
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 700,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1700",
+            "city": "New York",
+            "record_index": 0
           }
         }
       },
@@ -1126,15 +1126,15 @@
       },
       {
         "rank": 10,
-        "id": 730,
+        "id": 740,
         "score": 0.8093573,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1730",
+            "account_last4": "1740",
             "city": "New York",
-            "record_index": 30
+            "record_index": 40
           }
         }
       }
@@ -1156,20 +1156,6 @@
       },
       {
         "rank": 2,
-        "id": 872,
-        "score": 0.83157986,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1872",
-            "city": "Tokyo",
-            "record_index": 72
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 842,
         "score": 0.83157986,
         "payload": {
@@ -1179,6 +1165,20 @@
             "account_last4": "1842",
             "city": "Tokyo",
             "record_index": 42
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 852,
+        "score": 0.83157986,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1852",
+            "city": "Tokyo",
+            "record_index": 52
           }
         }
       },
@@ -1212,20 +1212,6 @@
       },
       {
         "rank": 6,
-        "id": 852,
-        "score": 0.83157986,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1852",
-            "city": "Tokyo",
-            "record_index": 52
-          }
-        }
-      },
-      {
-        "rank": 7,
         "id": 832,
         "score": 0.83157986,
         "payload": {
@@ -1235,6 +1221,20 @@
             "account_last4": "1832",
             "city": "Tokyo",
             "record_index": 32
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 872,
+        "score": 0.83157986,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1872",
+            "city": "Tokyo",
+            "record_index": 72
           }
         }
       },
@@ -1284,118 +1284,6 @@
     "9": [
       {
         "rank": 1,
-        "id": 930,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1930",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 910,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1910",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 950,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1950",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 900,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1900",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 990,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1990",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 980,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1980",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 960,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1960",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 8,
-        "id": 970,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1970",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 9,
         "id": 920,
         "score": 0.78188324,
         "payload": {
@@ -1409,7 +1297,35 @@
         }
       },
       {
-        "rank": 10,
+        "rank": 2,
+        "id": 930,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1930",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 960,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1960",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 4,
         "id": 940,
         "score": 0.78188324,
         "payload": {
@@ -1419,6 +1335,90 @@
             "account_last4": "1940",
             "city": "New York",
             "record_index": 40
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 900,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1900",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 990,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1990",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 910,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1910",
+            "city": "New York",
+            "record_index": 10
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 950,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1950",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 970,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1970",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 980,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1980",
+            "city": "New York",
+            "record_index": 80
           }
         }
       }
@@ -1712,6 +1712,20 @@
     "2": [
       {
         "rank": 1,
+        "id": 260,
+        "score": 0.677857,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1260",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 2,
         "id": 220,
         "score": 0.677857,
         "payload": {
@@ -1721,20 +1735,6 @@
             "account_last4": "1220",
             "city": "New York",
             "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 210,
-        "score": 0.677857,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1210",
-            "city": "New York",
-            "record_index": 10
           }
         }
       },
@@ -1754,48 +1754,6 @@
       },
       {
         "rank": 4,
-        "id": 270,
-        "score": 0.677857,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1270",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 260,
-        "score": 0.677857,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1260",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 240,
-        "score": 0.677857,
-        "payload": {
-          "domain": "Credit Cards",
-          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
-          "metadata": {
-            "account_last4": "1240",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 7,
         "id": 290,
         "score": 0.677857,
         "payload": {
@@ -1809,21 +1767,21 @@
         }
       },
       {
-        "rank": 8,
-        "id": 280,
+        "rank": 5,
+        "id": 240,
         "score": 0.677857,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1280",
+            "account_last4": "1240",
             "city": "New York",
-            "record_index": 80
+            "record_index": 40
           }
         }
       },
       {
-        "rank": 9,
+        "rank": 6,
         "id": 230,
         "score": 0.677857,
         "payload": {
@@ -1833,6 +1791,48 @@
             "account_last4": "1230",
             "city": "New York",
             "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 270,
+        "score": 0.677857,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1270",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 210,
+        "score": 0.677857,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1210",
+            "city": "New York",
+            "record_index": 10
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 280,
+        "score": 0.677857,
+        "payload": {
+          "domain": "Credit Cards",
+          "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
+          "metadata": {
+            "account_last4": "1280",
+            "city": "New York",
+            "record_index": 80
           }
         }
       },
@@ -1854,62 +1854,6 @@
     "3": [
       {
         "rank": 1,
-        "id": 390,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1390",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 340,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1340",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 300,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1300",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 370,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1370",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 5,
         "id": 360,
         "score": 0.5385238,
         "payload": {
@@ -1923,35 +1867,7 @@
         }
       },
       {
-        "rank": 6,
-        "id": 350,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1350",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 320,
-        "score": 0.5385238,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1320",
-            "city": "New York",
-            "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 2,
         "id": 380,
         "score": 0.5385238,
         "payload": {
@@ -1965,7 +1881,7 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 3,
         "id": 310,
         "score": 0.5385238,
         "payload": {
@@ -1979,7 +1895,35 @@
         }
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "id": 320,
+        "score": 0.5385238,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1320",
+            "city": "New York",
+            "record_index": 20
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 300,
+        "score": 0.5385238,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1300",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 6,
         "id": 330,
         "score": 0.5385238,
         "payload": {
@@ -1991,109 +1935,67 @@
             "record_index": 30
           }
         }
-      }
-    ],
-    "4": [
-      {
-        "rank": 1,
-        "id": 481,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1481",
-            "city": "London",
-            "record_index": 81
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 441,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1441",
-            "city": "London",
-            "record_index": 41
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 491,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1491",
-            "city": "London",
-            "record_index": 91
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 401,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1401",
-            "city": "London",
-            "record_index": 1
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 471,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1471",
-            "city": "London",
-            "record_index": 71
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 451,
-        "score": 0.6205755,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1451",
-            "city": "London",
-            "record_index": 51
-          }
-        }
       },
       {
         "rank": 7,
-        "id": 411,
-        "score": 0.6205755,
+        "id": 350,
+        "score": 0.5385238,
         "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1411",
-            "city": "London",
-            "record_index": 11
+            "account_last4": "1350",
+            "city": "New York",
+            "record_index": 50
           }
         }
       },
       {
         "rank": 8,
+        "id": 340,
+        "score": 0.5385238,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1340",
+            "city": "New York",
+            "record_index": 40
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 370,
+        "score": 0.5385238,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1370",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 390,
+        "score": 0.5385238,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1390",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      }
+    ],
+    "4": [
+      {
+        "rank": 1,
         "id": 461,
         "score": 0.6205755,
         "payload": {
@@ -2107,7 +2009,35 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 2,
+        "id": 491,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1491",
+            "city": "London",
+            "record_index": 91
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 451,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1451",
+            "city": "London",
+            "record_index": 51
+          }
+        }
+      },
+      {
+        "rank": 4,
         "id": 421,
         "score": 0.6205755,
         "payload": {
@@ -2117,6 +2047,76 @@
             "account_last4": "1421",
             "city": "London",
             "record_index": 21
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 481,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1481",
+            "city": "London",
+            "record_index": 81
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 471,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1471",
+            "city": "London",
+            "record_index": 71
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 401,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1401",
+            "city": "London",
+            "record_index": 1
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 411,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1411",
+            "city": "London",
+            "record_index": 11
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 441,
+        "score": 0.6205755,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1441",
+            "city": "London",
+            "record_index": 41
           }
         }
       },
@@ -2138,34 +2138,20 @@
     "5": [
       {
         "rank": 1,
-        "id": 540,
+        "id": 570,
         "score": 0.61968935,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1540",
+            "account_last4": "1570",
             "city": "New York",
-            "record_index": 40
+            "record_index": 70
           }
         }
       },
       {
         "rank": 2,
-        "id": 510,
-        "score": 0.61968935,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1510",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 500,
         "score": 0.61968935,
         "payload": {
@@ -2179,7 +2165,49 @@
         }
       },
       {
+        "rank": 3,
+        "id": 510,
+        "score": 0.61968935,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1510",
+            "city": "New York",
+            "record_index": 10
+          }
+        }
+      },
+      {
         "rank": 4,
+        "id": 550,
+        "score": 0.61968935,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1550",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 580,
+        "score": 0.61968935,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1580",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 6,
         "id": 520,
         "score": 0.61968935,
         "payload": {
@@ -2189,34 +2217,6 @@
             "account_last4": "1520",
             "city": "New York",
             "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 530,
-        "score": 0.61968935,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1530",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 590,
-        "score": 0.61968935,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1590",
-            "city": "New York",
-            "record_index": 90
           }
         }
       },
@@ -2236,43 +2236,43 @@
       },
       {
         "rank": 8,
-        "id": 550,
+        "id": 530,
         "score": 0.61968935,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1550",
+            "account_last4": "1530",
             "city": "New York",
-            "record_index": 50
+            "record_index": 30
           }
         }
       },
       {
         "rank": 9,
-        "id": 580,
+        "id": 540,
         "score": 0.61968935,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1580",
+            "account_last4": "1540",
             "city": "New York",
-            "record_index": 80
+            "record_index": 40
           }
         }
       },
       {
         "rank": 10,
-        "id": 570,
+        "id": 590,
         "score": 0.61968935,
         "payload": {
           "domain": "Financial Compliance",
           "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
           "metadata": {
-            "account_last4": "1570",
+            "account_last4": "1590",
             "city": "New York",
-            "record_index": 70
+            "record_index": 90
           }
         }
       }
@@ -2280,48 +2280,6 @@
     "6": [
       {
         "rank": 1,
-        "id": 681,
-        "score": 0.6299189,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1681",
-            "city": "London",
-            "record_index": 81
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 631,
-        "score": 0.6299189,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1631",
-            "city": "London",
-            "record_index": 31
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 691,
-        "score": 0.6299189,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1691",
-            "city": "London",
-            "record_index": 91
-          }
-        }
-      },
-      {
-        "rank": 4,
         "id": 671,
         "score": 0.6299189,
         "payload": {
@@ -2335,21 +2293,21 @@
         }
       },
       {
-        "rank": 5,
-        "id": 661,
+        "rank": 2,
+        "id": 601,
         "score": 0.6299189,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1661",
+            "account_last4": "1601",
             "city": "London",
-            "record_index": 61
+            "record_index": 1
           }
         }
       },
       {
-        "rank": 6,
+        "rank": 3,
         "id": 621,
         "score": 0.6299189,
         "payload": {
@@ -2363,7 +2321,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 4,
         "id": 611,
         "score": 0.6299189,
         "payload": {
@@ -2377,21 +2335,7 @@
         }
       },
       {
-        "rank": 8,
-        "id": 641,
-        "score": 0.6299189,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1641",
-            "city": "London",
-            "record_index": 41
-          }
-        }
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "id": 651,
         "score": 0.6299189,
         "payload": {
@@ -2405,16 +2349,72 @@
         }
       },
       {
-        "rank": 10,
-        "id": 601,
+        "rank": 6,
+        "id": 641,
         "score": 0.6299189,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1601",
+            "account_last4": "1641",
             "city": "London",
-            "record_index": 1
+            "record_index": 41
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 661,
+        "score": 0.6299189,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1661",
+            "city": "London",
+            "record_index": 61
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 631,
+        "score": 0.6299189,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1631",
+            "city": "London",
+            "record_index": 31
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 681,
+        "score": 0.6299189,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1681",
+            "city": "London",
+            "record_index": 81
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 691,
+        "score": 0.6299189,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1691",
+            "city": "London",
+            "record_index": 91
           }
         }
       }
@@ -2422,29 +2422,29 @@
     "7": [
       {
         "rank": 1,
-        "id": 780,
+        "id": 770,
         "score": 0.61748326,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1780",
+            "account_last4": "1770",
             "city": "New York",
-            "record_index": 80
+            "record_index": 70
           }
         }
       },
       {
         "rank": 2,
-        "id": 720,
+        "id": 750,
         "score": 0.61748326,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1720",
+            "account_last4": "1750",
             "city": "New York",
-            "record_index": 20
+            "record_index": 50
           }
         }
       },
@@ -2464,76 +2464,34 @@
       },
       {
         "rank": 4,
-        "id": 730,
+        "id": 780,
         "score": 0.61748326,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1730",
+            "account_last4": "1780",
             "city": "New York",
-            "record_index": 30
+            "record_index": 80
           }
         }
       },
       {
         "rank": 5,
-        "id": 700,
+        "id": 720,
         "score": 0.61748326,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1700",
+            "account_last4": "1720",
             "city": "New York",
-            "record_index": 0
+            "record_index": 20
           }
         }
       },
       {
         "rank": 6,
-        "id": 790,
-        "score": 0.61748326,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1790",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 770,
-        "score": 0.61748326,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1770",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 8,
-        "id": 710,
-        "score": 0.61748326,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1710",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 9,
         "id": 760,
         "score": 0.61748326,
         "payload": {
@@ -2547,16 +2505,58 @@
         }
       },
       {
-        "rank": 10,
-        "id": 750,
+        "rank": 7,
+        "id": 790,
         "score": 0.61748326,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1750",
+            "account_last4": "1790",
             "city": "New York",
-            "record_index": 50
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 730,
+        "score": 0.61748326,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1730",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 700,
+        "score": 0.61748326,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1700",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 710,
+        "score": 0.61748326,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1710",
+            "city": "New York",
+            "record_index": 10
           }
         }
       }
@@ -2578,20 +2578,6 @@
       },
       {
         "rank": 2,
-        "id": 832,
-        "score": 0.5803792,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1832",
-            "city": "Tokyo",
-            "record_index": 32
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 872,
         "score": 0.5803792,
         "payload": {
@@ -2605,7 +2591,7 @@
         }
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 842,
         "score": 0.5803792,
         "payload": {
@@ -2619,21 +2605,7 @@
         }
       },
       {
-        "rank": 5,
-        "id": 802,
-        "score": 0.5803792,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1802",
-            "city": "Tokyo",
-            "record_index": 2
-          }
-        }
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "id": 892,
         "score": 0.5803792,
         "payload": {
@@ -2647,21 +2619,7 @@
         }
       },
       {
-        "rank": 7,
-        "id": 812,
-        "score": 0.5803792,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1812",
-            "city": "Tokyo",
-            "record_index": 12
-          }
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "id": 862,
         "score": 0.5803792,
         "payload": {
@@ -2675,7 +2633,21 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 6,
+        "id": 812,
+        "score": 0.5803792,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1812",
+            "city": "Tokyo",
+            "record_index": 12
+          }
+        }
+      },
+      {
+        "rank": 7,
         "id": 852,
         "score": 0.5803792,
         "payload": {
@@ -2689,7 +2661,21 @@
         }
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "id": 832,
+        "score": 0.5803792,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1832",
+            "city": "Tokyo",
+            "record_index": 32
+          }
+        }
+      },
+      {
+        "rank": 9,
         "id": 822,
         "score": 0.5803792,
         "payload": {
@@ -2701,39 +2687,39 @@
             "record_index": 22
           }
         }
+      },
+      {
+        "rank": 10,
+        "id": 802,
+        "score": 0.5803792,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1802",
+            "city": "Tokyo",
+            "record_index": 2
+          }
+        }
       }
     ],
     "9": [
       {
         "rank": 1,
-        "id": 990,
+        "id": 980,
         "score": 0.66047966,
         "payload": {
           "domain": "Cybersecurity",
           "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
           "metadata": {
-            "account_last4": "1990",
+            "account_last4": "1980",
             "city": "New York",
-            "record_index": 90
+            "record_index": 80
           }
         }
       },
       {
         "rank": 2,
-        "id": 940,
-        "score": 0.66047966,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1940",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 950,
         "score": 0.66047966,
         "payload": {
@@ -2747,63 +2733,7 @@
         }
       },
       {
-        "rank": 4,
-        "id": 900,
-        "score": 0.66047966,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1900",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 920,
-        "score": 0.66047966,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1920",
-            "city": "New York",
-            "record_index": 20
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 930,
-        "score": 0.66047966,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1930",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 970,
-        "score": 0.66047966,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1970",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 3,
         "id": 910,
         "score": 0.66047966,
         "payload": {
@@ -2817,7 +2747,63 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "id": 990,
+        "score": 0.66047966,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1990",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 900,
+        "score": 0.66047966,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1900",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 920,
+        "score": 0.66047966,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1920",
+            "city": "New York",
+            "record_index": 20
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 930,
+        "score": 0.66047966,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1930",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 8,
         "id": 960,
         "score": 0.66047966,
         "payload": {
@@ -2831,16 +2817,30 @@
         }
       },
       {
-        "rank": 10,
-        "id": 980,
+        "rank": 9,
+        "id": 970,
         "score": 0.66047966,
         "payload": {
           "domain": "Cybersecurity",
           "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
           "metadata": {
-            "account_last4": "1980",
+            "account_last4": "1970",
             "city": "New York",
-            "record_index": 80
+            "record_index": 70
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 940,
+        "score": 0.66047966,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1940",
+            "city": "New York",
+            "record_index": 40
           }
         }
       }
@@ -3134,15 +3134,15 @@
     "2": [
       {
         "rank": 1,
-        "id": 210,
+        "id": 270,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1210",
+            "account_last4": "1270",
             "city": "New York",
-            "record_index": 10
+            "record_index": 70
           }
         }
       },
@@ -3162,29 +3162,29 @@
       },
       {
         "rank": 3,
-        "id": 240,
+        "id": 230,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1240",
+            "account_last4": "1230",
             "city": "New York",
-            "record_index": 40
+            "record_index": 30
           }
         }
       },
       {
         "rank": 4,
-        "id": 290,
+        "id": 260,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1290",
+            "account_last4": "1260",
             "city": "New York",
-            "record_index": 90
+            "record_index": 60
           }
         }
       },
@@ -3218,43 +3218,43 @@
       },
       {
         "rank": 7,
-        "id": 260,
+        "id": 290,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1260",
+            "account_last4": "1290",
             "city": "New York",
-            "record_index": 60
+            "record_index": 90
           }
         }
       },
       {
         "rank": 8,
-        "id": 270,
+        "id": 240,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1270",
+            "account_last4": "1240",
             "city": "New York",
-            "record_index": 70
+            "record_index": 40
           }
         }
       },
       {
         "rank": 9,
-        "id": 230,
+        "id": 210,
         "score": 0.77025497,
         "payload": {
           "domain": "Credit Cards",
           "text": "Credit limit increase approved for Platinum Mastercard holder: revolving ceiling adjusted from $5,000 to $12,000.",
           "metadata": {
-            "account_last4": "1230",
+            "account_last4": "1210",
             "city": "New York",
-            "record_index": 30
+            "record_index": 10
           }
         }
       },
@@ -3276,90 +3276,6 @@
     "3": [
       {
         "rank": 1,
-        "id": 330,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1330",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 390,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1390",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 360,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1360",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 380,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1380",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 340,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1340",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 310,
-        "score": 0.85499597,
-        "payload": {
-          "domain": "Loan Policies",
-          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
-          "metadata": {
-            "account_last4": "1310",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 7,
         "id": 320,
         "score": 0.85499597,
         "payload": {
@@ -3373,21 +3289,63 @@
         }
       },
       {
-        "rank": 8,
-        "id": 370,
+        "rank": 2,
+        "id": 350,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1370",
+            "account_last4": "1350",
             "city": "New York",
-            "record_index": 70
+            "record_index": 50
           }
         }
       },
       {
-        "rank": 9,
+        "rank": 3,
+        "id": 340,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1340",
+            "city": "New York",
+            "record_index": 40
+          }
+        }
+      },
+      {
+        "rank": 4,
+        "id": 390,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1390",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 5,
+        "id": 360,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1360",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 6,
         "id": 300,
         "score": 0.85499597,
         "payload": {
@@ -3401,16 +3359,58 @@
         }
       },
       {
-        "rank": 10,
-        "id": 350,
+        "rank": 7,
+        "id": 310,
         "score": 0.85499597,
         "payload": {
           "domain": "Loan Policies",
           "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
           "metadata": {
-            "account_last4": "1350",
+            "account_last4": "1310",
             "city": "New York",
-            "record_index": 50
+            "record_index": 10
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 380,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1380",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 330,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1330",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 370,
+        "score": 0.85499597,
+        "payload": {
+          "domain": "Loan Policies",
+          "text": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying threshold capped at 43% for conforming residential mortgages.",
+          "metadata": {
+            "account_last4": "1370",
+            "city": "New York",
+            "record_index": 70
           }
         }
       }
@@ -3418,48 +3418,20 @@
     "4": [
       {
         "rank": 1,
-        "id": 491,
+        "id": 421,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1491",
+            "account_last4": "1421",
             "city": "London",
-            "record_index": 91
+            "record_index": 21
           }
         }
       },
       {
         "rank": 2,
-        "id": 481,
-        "score": 0.807443,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1481",
-            "city": "London",
-            "record_index": 81
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 431,
-        "score": 0.807443,
-        "payload": {
-          "domain": "Customer Authentication",
-          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
-          "metadata": {
-            "account_last4": "1431",
-            "city": "London",
-            "record_index": 31
-          }
-        }
-      },
-      {
-        "rank": 4,
         "id": 461,
         "score": 0.807443,
         "payload": {
@@ -3473,7 +3445,7 @@
         }
       },
       {
-        "rank": 5,
+        "rank": 3,
         "id": 471,
         "score": 0.807443,
         "payload": {
@@ -3487,7 +3459,7 @@
         }
       },
       {
-        "rank": 6,
+        "rank": 4,
         "id": 411,
         "score": 0.807443,
         "payload": {
@@ -3501,7 +3473,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 5,
         "id": 441,
         "score": 0.807443,
         "payload": {
@@ -3515,7 +3487,21 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "id": 431,
+        "score": 0.807443,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1431",
+            "city": "London",
+            "record_index": 31
+          }
+        }
+      },
+      {
+        "rank": 7,
         "id": 401,
         "score": 0.807443,
         "payload": {
@@ -3525,6 +3511,20 @@
             "account_last4": "1401",
             "city": "London",
             "record_index": 1
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 491,
+        "score": 0.807443,
+        "payload": {
+          "domain": "Customer Authentication",
+          "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
+          "metadata": {
+            "account_last4": "1491",
+            "city": "London",
+            "record_index": 91
           }
         }
       },
@@ -3544,15 +3544,15 @@
       },
       {
         "rank": 10,
-        "id": 421,
+        "id": 481,
         "score": 0.807443,
         "payload": {
           "domain": "Customer Authentication",
           "text": "FIDO2 biometric Passkey registration verified: client public key securely enrolled on hardware security module.",
           "metadata": {
-            "account_last4": "1421",
+            "account_last4": "1481",
             "city": "London",
-            "record_index": 21
+            "record_index": 81
           }
         }
       }
@@ -3560,118 +3560,6 @@
     "5": [
       {
         "rank": 1,
-        "id": 580,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1580",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 530,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1530",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 570,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1570",
-            "city": "New York",
-            "record_index": 70
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 550,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1550",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 540,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1540",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 6,
-        "id": 590,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1590",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 510,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1510",
-            "city": "New York",
-            "record_index": 10
-          }
-        }
-      },
-      {
-        "rank": 8,
-        "id": 560,
-        "score": 0.80799234,
-        "payload": {
-          "domain": "Financial Compliance",
-          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
-          "metadata": {
-            "account_last4": "1560",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 9,
         "id": 520,
         "score": 0.80799234,
         "payload": {
@@ -3685,7 +3573,49 @@
         }
       },
       {
-        "rank": 10,
+        "rank": 2,
+        "id": 560,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1560",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 590,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1590",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 4,
+        "id": 510,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1510",
+            "city": "New York",
+            "record_index": 10
+          }
+        }
+      },
+      {
+        "rank": 5,
         "id": 500,
         "score": 0.80799234,
         "payload": {
@@ -3697,81 +3627,81 @@
             "record_index": 0
           }
         }
+      },
+      {
+        "rank": 6,
+        "id": 530,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1530",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 580,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1580",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 550,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1550",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 540,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1540",
+            "city": "New York",
+            "record_index": 40
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 570,
+        "score": 0.80799234,
+        "payload": {
+          "domain": "Financial Compliance",
+          "text": "Anti-Money Laundering (AML) suspicious activity report (SAR) filed for structured cash deposits below $10,000.",
+          "metadata": {
+            "account_last4": "1570",
+            "city": "New York",
+            "record_index": 70
+          }
+        }
       }
     ],
     "6": [
       {
         "rank": 1,
-        "id": 671,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1671",
-            "city": "London",
-            "record_index": 71
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 681,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1681",
-            "city": "London",
-            "record_index": 81
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 691,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1691",
-            "city": "London",
-            "record_index": 91
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 661,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1661",
-            "city": "London",
-            "record_index": 61
-          }
-        }
-      },
-      {
-        "rank": 5,
-        "id": 631,
-        "score": 0.80160105,
-        "payload": {
-          "domain": "Transaction Monitoring",
-          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
-          "metadata": {
-            "account_last4": "1631",
-            "city": "London",
-            "record_index": 31
-          }
-        }
-      },
-      {
-        "rank": 6,
         "id": 601,
         "score": 0.80160105,
         "payload": {
@@ -3785,35 +3715,49 @@
         }
       },
       {
-        "rank": 7,
-        "id": 651,
+        "rank": 2,
+        "id": 631,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1651",
+            "account_last4": "1631",
             "city": "London",
-            "record_index": 51
+            "record_index": 31
           }
         }
       },
       {
-        "rank": 8,
-        "id": 621,
+        "rank": 3,
+        "id": 681,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1621",
+            "account_last4": "1681",
             "city": "London",
-            "record_index": 21
+            "record_index": 81
           }
         }
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "id": 641,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1641",
+            "city": "London",
+            "record_index": 41
+          }
+        }
+      },
+      {
+        "rank": 5,
         "id": 611,
         "score": 0.80160105,
         "payload": {
@@ -3827,16 +3771,72 @@
         }
       },
       {
-        "rank": 10,
-        "id": 641,
+        "rank": 6,
+        "id": 691,
         "score": 0.80160105,
         "payload": {
           "domain": "Transaction Monitoring",
           "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
           "metadata": {
-            "account_last4": "1641",
+            "account_last4": "1691",
             "city": "London",
-            "record_index": 41
+            "record_index": 91
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 621,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1621",
+            "city": "London",
+            "record_index": 21
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 651,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1651",
+            "city": "London",
+            "record_index": 51
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 671,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1671",
+            "city": "London",
+            "record_index": 71
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 661,
+        "score": 0.80160105,
+        "payload": {
+          "domain": "Transaction Monitoring",
+          "text": "Structuring detection algorithm triggered: 4 cash deposits of $9,500 completed at distinct branches within 48 hours.",
+          "metadata": {
+            "account_last4": "1661",
+            "city": "London",
+            "record_index": 61
           }
         }
       }
@@ -3844,20 +3844,6 @@
     "7": [
       {
         "rank": 1,
-        "id": 760,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1760",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 2,
         "id": 710,
         "score": 0.8093573,
         "payload": {
@@ -3871,35 +3857,7 @@
         }
       },
       {
-        "rank": 3,
-        "id": 780,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1780",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 4,
-        "id": 730,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1730",
-            "city": "New York",
-            "record_index": 30
-          }
-        }
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "id": 770,
         "score": 0.8093573,
         "payload": {
@@ -3913,49 +3871,21 @@
         }
       },
       {
-        "rank": 6,
-        "id": 700,
+        "rank": 3,
+        "id": 760,
         "score": 0.8093573,
         "payload": {
           "domain": "Account Management",
           "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
           "metadata": {
-            "account_last4": "1700",
+            "account_last4": "1760",
             "city": "New York",
-            "record_index": 0
+            "record_index": 60
           }
         }
       },
       {
-        "rank": 7,
-        "id": 750,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1750",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 8,
-        "id": 740,
-        "score": 0.8093573,
-        "payload": {
-          "domain": "Account Management",
-          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
-          "metadata": {
-            "account_last4": "1740",
-            "city": "New York",
-            "record_index": 40
-          }
-        }
-      },
-      {
-        "rank": 9,
+        "rank": 4,
         "id": 720,
         "score": 0.8093573,
         "payload": {
@@ -3969,7 +3899,49 @@
         }
       },
       {
-        "rank": 10,
+        "rank": 5,
+        "id": 750,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1750",
+            "city": "New York",
+            "record_index": 50
+          }
+        }
+      },
+      {
+        "rank": 6,
+        "id": 730,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1730",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 780,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1780",
+            "city": "New York",
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 8,
         "id": 790,
         "score": 0.8093573,
         "payload": {
@@ -3981,39 +3953,39 @@
             "record_index": 90
           }
         }
+      },
+      {
+        "rank": 9,
+        "id": 700,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1700",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 740,
+        "score": 0.8093573,
+        "payload": {
+          "domain": "Account Management",
+          "text": "Joint checking account ownership modified: secondary signatory added following certified legal power of attorney.",
+          "metadata": {
+            "account_last4": "1740",
+            "city": "New York",
+            "record_index": 40
+          }
+        }
       }
     ],
     "8": [
       {
         "rank": 1,
-        "id": 892,
-        "score": 0.83157986,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1892",
-            "city": "Tokyo",
-            "record_index": 92
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 882,
-        "score": 0.83157986,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1882",
-            "city": "Tokyo",
-            "record_index": 82
-          }
-        }
-      },
-      {
-        "rank": 3,
         "id": 842,
         "score": 0.83157986,
         "payload": {
@@ -4027,16 +3999,44 @@
         }
       },
       {
-        "rank": 4,
-        "id": 832,
+        "rank": 2,
+        "id": 872,
         "score": 0.83157986,
         "payload": {
           "domain": "Risk Assessment",
           "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
           "metadata": {
-            "account_last4": "1832",
+            "account_last4": "1872",
             "city": "Tokyo",
-            "record_index": 32
+            "record_index": 72
+          }
+        }
+      },
+      {
+        "rank": 3,
+        "id": 892,
+        "score": 0.83157986,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1892",
+            "city": "Tokyo",
+            "record_index": 92
+          }
+        }
+      },
+      {
+        "rank": 4,
+        "id": 862,
+        "score": 0.83157986,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1862",
+            "city": "Tokyo",
+            "record_index": 62
           }
         }
       },
@@ -4056,6 +4056,20 @@
       },
       {
         "rank": 6,
+        "id": 882,
+        "score": 0.83157986,
+        "payload": {
+          "domain": "Risk Assessment",
+          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
+          "metadata": {
+            "account_last4": "1882",
+            "city": "Tokyo",
+            "record_index": 82
+          }
+        }
+      },
+      {
+        "rank": 7,
         "id": 812,
         "score": 0.83157986,
         "payload": {
@@ -4069,7 +4083,7 @@
         }
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": 802,
         "score": 0.83157986,
         "payload": {
@@ -4083,7 +4097,7 @@
         }
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": 852,
         "score": 0.83157986,
         "payload": {
@@ -4097,30 +4111,16 @@
         }
       },
       {
-        "rank": 9,
-        "id": 862,
-        "score": 0.83157986,
-        "payload": {
-          "domain": "Risk Assessment",
-          "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
-          "metadata": {
-            "account_last4": "1862",
-            "city": "Tokyo",
-            "record_index": 62
-          }
-        }
-      },
-      {
         "rank": 10,
-        "id": 872,
+        "id": 832,
         "score": 0.83157986,
         "payload": {
           "domain": "Risk Assessment",
           "text": "Stress testing scenario: supervisory severely adverse scenario modeling 40% commercial real estate asset devaluation.",
           "metadata": {
-            "account_last4": "1872",
+            "account_last4": "1832",
             "city": "Tokyo",
-            "record_index": 72
+            "record_index": 32
           }
         }
       }
@@ -4128,48 +4128,6 @@
     "9": [
       {
         "rank": 1,
-        "id": 950,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1950",
-            "city": "New York",
-            "record_index": 50
-          }
-        }
-      },
-      {
-        "rank": 2,
-        "id": 990,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1990",
-            "city": "New York",
-            "record_index": 90
-          }
-        }
-      },
-      {
-        "rank": 3,
-        "id": 960,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1960",
-            "city": "New York",
-            "record_index": 60
-          }
-        }
-      },
-      {
-        "rank": 4,
         "id": 910,
         "score": 0.78188324,
         "payload": {
@@ -4183,49 +4141,21 @@
         }
       },
       {
-        "rank": 5,
-        "id": 930,
+        "rank": 2,
+        "id": 920,
         "score": 0.78188324,
         "payload": {
           "domain": "Cybersecurity",
           "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
           "metadata": {
-            "account_last4": "1930",
+            "account_last4": "1920",
             "city": "New York",
-            "record_index": 30
+            "record_index": 20
           }
         }
       },
       {
-        "rank": 6,
-        "id": 900,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1900",
-            "city": "New York",
-            "record_index": 0
-          }
-        }
-      },
-      {
-        "rank": 7,
-        "id": 980,
-        "score": 0.78188324,
-        "payload": {
-          "domain": "Cybersecurity",
-          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
-          "metadata": {
-            "account_last4": "1980",
-            "city": "New York",
-            "record_index": 80
-          }
-        }
-      },
-      {
-        "rank": 8,
+        "rank": 3,
         "id": 940,
         "score": 0.78188324,
         "payload": {
@@ -4239,7 +4169,21 @@
         }
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "id": 930,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1930",
+            "city": "New York",
+            "record_index": 30
+          }
+        }
+      },
+      {
+        "rank": 5,
         "id": 970,
         "score": 0.78188324,
         "payload": {
@@ -4253,16 +4197,72 @@
         }
       },
       {
-        "rank": 10,
-        "id": 920,
+        "rank": 6,
+        "id": 980,
         "score": 0.78188324,
         "payload": {
           "domain": "Cybersecurity",
           "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
           "metadata": {
-            "account_last4": "1920",
+            "account_last4": "1980",
             "city": "New York",
-            "record_index": 20
+            "record_index": 80
+          }
+        }
+      },
+      {
+        "rank": 7,
+        "id": 960,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1960",
+            "city": "New York",
+            "record_index": 60
+          }
+        }
+      },
+      {
+        "rank": 8,
+        "id": 990,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1990",
+            "city": "New York",
+            "record_index": 90
+          }
+        }
+      },
+      {
+        "rank": 9,
+        "id": 900,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1900",
+            "city": "New York",
+            "record_index": 0
+          }
+        }
+      },
+      {
+        "rank": 10,
+        "id": 950,
+        "score": 0.78188324,
+        "payload": {
+          "domain": "Cybersecurity",
+          "text": "Distributed Denial of Service (DDoS) mitigation: scrubbing center successfully repelled 120 Gbps SYN flood attack.",
+          "metadata": {
+            "account_last4": "1950",
+            "city": "New York",
+            "record_index": 50
           }
         }
       }

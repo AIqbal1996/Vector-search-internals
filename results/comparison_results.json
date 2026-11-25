@@ -213,7 +213,7 @@
           {
             "rank": 1,
             "numpy_id": 200,
-            "qdrant_id": 250,
+            "qdrant_id": 270,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -222,7 +222,7 @@
           {
             "rank": 2,
             "numpy_id": 210,
-            "qdrant_id": 220,
+            "qdrant_id": 200,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -231,7 +231,7 @@
           {
             "rank": 3,
             "numpy_id": 220,
-            "qdrant_id": 270,
+            "qdrant_id": 290,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -240,7 +240,7 @@
           {
             "rank": 4,
             "numpy_id": 230,
-            "qdrant_id": 280,
+            "qdrant_id": 240,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -249,7 +249,7 @@
           {
             "rank": 5,
             "numpy_id": 240,
-            "qdrant_id": 290,
+            "qdrant_id": 250,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -258,7 +258,7 @@
           {
             "rank": 6,
             "numpy_id": 250,
-            "qdrant_id": 260,
+            "qdrant_id": 230,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -267,7 +267,7 @@
           {
             "rank": 7,
             "numpy_id": 260,
-            "qdrant_id": 230,
+            "qdrant_id": 220,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -276,7 +276,7 @@
           {
             "rank": 8,
             "numpy_id": 270,
-            "qdrant_id": 240,
+            "qdrant_id": 260,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -285,16 +285,16 @@
           {
             "rank": 9,
             "numpy_id": 280,
-            "qdrant_id": 210,
+            "qdrant_id": 280,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 10,
             "numpy_id": 290,
-            "qdrant_id": 200,
+            "qdrant_id": 210,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -313,7 +313,7 @@
           {
             "rank": 1,
             "numpy_id": 300,
-            "qdrant_id": 390,
+            "qdrant_id": 310,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -322,7 +322,7 @@
           {
             "rank": 2,
             "numpy_id": 310,
-            "qdrant_id": 380,
+            "qdrant_id": 350,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -349,16 +349,16 @@
           {
             "rank": 5,
             "numpy_id": 340,
-            "qdrant_id": 340,
+            "qdrant_id": 370,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 6,
             "numpy_id": 350,
-            "qdrant_id": 330,
+            "qdrant_id": 380,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -367,7 +367,7 @@
           {
             "rank": 7,
             "numpy_id": 360,
-            "qdrant_id": 310,
+            "qdrant_id": 340,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -385,7 +385,7 @@
           {
             "rank": 9,
             "numpy_id": 380,
-            "qdrant_id": 350,
+            "qdrant_id": 390,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -394,7 +394,7 @@
           {
             "rank": 10,
             "numpy_id": 390,
-            "qdrant_id": 370,
+            "qdrant_id": 330,
             "numpy_score": 0.8549960255622864,
             "qdrant_score": 0.85499597,
             "score_difference": 5.556228632741522e-08,
@@ -413,7 +413,7 @@
           {
             "rank": 1,
             "numpy_id": 401,
-            "qdrant_id": 451,
+            "qdrant_id": 421,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -422,7 +422,7 @@
           {
             "rank": 2,
             "numpy_id": 411,
-            "qdrant_id": 471,
+            "qdrant_id": 461,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -431,7 +431,7 @@
           {
             "rank": 3,
             "numpy_id": 421,
-            "qdrant_id": 431,
+            "qdrant_id": 471,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -440,7 +440,7 @@
           {
             "rank": 4,
             "numpy_id": 431,
-            "qdrant_id": 441,
+            "qdrant_id": 411,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -449,7 +449,7 @@
           {
             "rank": 5,
             "numpy_id": 441,
-            "qdrant_id": 491,
+            "qdrant_id": 451,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -458,7 +458,7 @@
           {
             "rank": 6,
             "numpy_id": 451,
-            "qdrant_id": 411,
+            "qdrant_id": 491,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -467,7 +467,7 @@
           {
             "rank": 7,
             "numpy_id": 461,
-            "qdrant_id": 481,
+            "qdrant_id": 431,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -476,7 +476,7 @@
           {
             "rank": 8,
             "numpy_id": 471,
-            "qdrant_id": 421,
+            "qdrant_id": 441,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -494,7 +494,7 @@
           {
             "rank": 10,
             "numpy_id": 491,
-            "qdrant_id": 461,
+            "qdrant_id": 481,
             "numpy_score": 0.8074430227279663,
             "qdrant_score": 0.807443,
             "score_difference": 2.2727966286772983e-08,
@@ -513,16 +513,16 @@
           {
             "rank": 1,
             "numpy_id": 510,
-            "qdrant_id": 510,
+            "qdrant_id": 560,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 2,
             "numpy_id": 520,
-            "qdrant_id": 580,
+            "qdrant_id": 540,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -531,7 +531,7 @@
           {
             "rank": 3,
             "numpy_id": 530,
-            "qdrant_id": 500,
+            "qdrant_id": 550,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -540,7 +540,7 @@
           {
             "rank": 4,
             "numpy_id": 540,
-            "qdrant_id": 590,
+            "qdrant_id": 530,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -549,7 +549,7 @@
           {
             "rank": 5,
             "numpy_id": 550,
-            "qdrant_id": 540,
+            "qdrant_id": 520,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -558,7 +558,7 @@
           {
             "rank": 6,
             "numpy_id": 560,
-            "qdrant_id": 530,
+            "qdrant_id": 500,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -567,7 +567,7 @@
           {
             "rank": 7,
             "numpy_id": 570,
-            "qdrant_id": 520,
+            "qdrant_id": 590,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -576,7 +576,7 @@
           {
             "rank": 8,
             "numpy_id": 580,
-            "qdrant_id": 550,
+            "qdrant_id": 510,
             "numpy_score": 0.8079923987388611,
             "qdrant_score": 0.80799234,
             "score_difference": 5.8738861108409424e-08,
@@ -594,7 +594,7 @@
           {
             "rank": 10,
             "numpy_id": 500,
-            "qdrant_id": 560,
+            "qdrant_id": 580,
             "numpy_score": 0.8079922199249268,
             "qdrant_score": 0.80799234,
             "score_difference": 1.2007507321776245e-07,
@@ -613,7 +613,7 @@
           {
             "rank": 1,
             "numpy_id": 601,
-            "qdrant_id": 611,
+            "qdrant_id": 621,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -622,7 +622,7 @@
           {
             "rank": 2,
             "numpy_id": 611,
-            "qdrant_id": 601,
+            "qdrant_id": 691,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -631,7 +631,7 @@
           {
             "rank": 3,
             "numpy_id": 621,
-            "qdrant_id": 651,
+            "qdrant_id": 641,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -640,7 +640,7 @@
           {
             "rank": 4,
             "numpy_id": 631,
-            "qdrant_id": 681,
+            "qdrant_id": 671,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -658,7 +658,7 @@
           {
             "rank": 6,
             "numpy_id": 651,
-            "qdrant_id": 661,
+            "qdrant_id": 601,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -667,7 +667,7 @@
           {
             "rank": 7,
             "numpy_id": 661,
-            "qdrant_id": 671,
+            "qdrant_id": 651,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -676,7 +676,7 @@
           {
             "rank": 8,
             "numpy_id": 671,
-            "qdrant_id": 641,
+            "qdrant_id": 611,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
@@ -685,20 +685,20 @@
           {
             "rank": 9,
             "numpy_id": 681,
-            "qdrant_id": 621,
-            "numpy_score": 0.801600992679596,
-            "qdrant_score": 0.80160105,
-            "score_difference": 5.7320404089900023e-08,
-            "match_status": "ID_TIE"
-          },
-          {
-            "rank": 10,
-            "numpy_id": 691,
-            "qdrant_id": 691,
+            "qdrant_id": 681,
             "numpy_score": 0.801600992679596,
             "qdrant_score": 0.80160105,
             "score_difference": 5.7320404089900023e-08,
             "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 691,
+            "qdrant_id": 661,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
           }
         ]
       },
@@ -713,7 +713,7 @@
           {
             "rank": 1,
             "numpy_id": 700,
-            "qdrant_id": 760,
+            "qdrant_id": 780,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -722,7 +722,7 @@
           {
             "rank": 2,
             "numpy_id": 710,
-            "qdrant_id": 770,
+            "qdrant_id": 720,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -731,7 +731,7 @@
           {
             "rank": 3,
             "numpy_id": 720,
-            "qdrant_id": 710,
+            "qdrant_id": 760,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -740,7 +740,7 @@
           {
             "rank": 4,
             "numpy_id": 730,
-            "qdrant_id": 750,
+            "qdrant_id": 770,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -749,7 +749,7 @@
           {
             "rank": 5,
             "numpy_id": 740,
-            "qdrant_id": 700,
+            "qdrant_id": 730,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -758,16 +758,16 @@
           {
             "rank": 6,
             "numpy_id": 750,
-            "qdrant_id": 720,
+            "qdrant_id": 750,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 7,
             "numpy_id": 760,
-            "qdrant_id": 780,
+            "qdrant_id": 710,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -776,7 +776,7 @@
           {
             "rank": 8,
             "numpy_id": 770,
-            "qdrant_id": 740,
+            "qdrant_id": 700,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -794,7 +794,7 @@
           {
             "rank": 10,
             "numpy_id": 790,
-            "qdrant_id": 730,
+            "qdrant_id": 740,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -822,7 +822,7 @@
           {
             "rank": 2,
             "numpy_id": 802,
-            "qdrant_id": 872,
+            "qdrant_id": 842,
             "numpy_score": 0.8315801024436951,
             "qdrant_score": 0.83157986,
             "score_difference": 2.4244369511983166e-07,
@@ -831,7 +831,7 @@
           {
             "rank": 3,
             "numpy_id": 812,
-            "qdrant_id": 842,
+            "qdrant_id": 852,
             "numpy_score": 0.8315801024436951,
             "qdrant_score": 0.83157986,
             "score_difference": 2.4244369511983166e-07,
@@ -858,16 +858,16 @@
           {
             "rank": 6,
             "numpy_id": 852,
-            "qdrant_id": 852,
+            "qdrant_id": 832,
             "numpy_score": 0.8315801024436951,
             "qdrant_score": 0.83157986,
             "score_difference": 2.4244369511983166e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 7,
             "numpy_id": 862,
-            "qdrant_id": 832,
+            "qdrant_id": 872,
             "numpy_score": 0.8315801024436951,
             "qdrant_score": 0.83157986,
             "score_difference": 2.4244369511983166e-07,
@@ -913,7 +913,7 @@
           {
             "rank": 1,
             "numpy_id": 900,
-            "qdrant_id": 930,
+            "qdrant_id": 920,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -922,16 +922,16 @@
           {
             "rank": 2,
             "numpy_id": 910,
-            "qdrant_id": 910,
+            "qdrant_id": 930,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 3,
             "numpy_id": 920,
-            "qdrant_id": 950,
+            "qdrant_id": 960,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -940,7 +940,7 @@
           {
             "rank": 4,
             "numpy_id": 930,
-            "qdrant_id": 900,
+            "qdrant_id": 940,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -949,7 +949,7 @@
           {
             "rank": 5,
             "numpy_id": 940,
-            "qdrant_id": 990,
+            "qdrant_id": 900,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -958,7 +958,7 @@
           {
             "rank": 6,
             "numpy_id": 950,
-            "qdrant_id": 980,
+            "qdrant_id": 990,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -967,25 +967,25 @@
           {
             "rank": 7,
             "numpy_id": 960,
-            "qdrant_id": 960,
+            "qdrant_id": 910,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 8,
             "numpy_id": 970,
-            "qdrant_id": 970,
+            "qdrant_id": 950,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 9,
             "numpy_id": 980,
-            "qdrant_id": 920,
+            "qdrant_id": 970,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -994,7 +994,7 @@
           {
             "rank": 10,
             "numpy_id": 990,
-            "qdrant_id": 940,
+            "qdrant_id": 980,
             "numpy_score": 0.7818834781646729,
             "qdrant_score": 0.78188324,
             "score_difference": 2.3816467287218757e-07,
@@ -1218,7 +1218,7 @@
           {
             "rank": 1,
             "numpy_id": 200,
-            "qdrant_id": 220,
+            "qdrant_id": 260,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
@@ -1227,11 +1227,11 @@
           {
             "rank": 2,
             "numpy_id": 210,
-            "qdrant_id": 210,
+            "qdrant_id": 220,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 3,
@@ -1245,7 +1245,7 @@
           {
             "rank": 4,
             "numpy_id": 230,
-            "qdrant_id": 270,
+            "qdrant_id": 290,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
@@ -1254,16 +1254,16 @@
           {
             "rank": 5,
             "numpy_id": 240,
-            "qdrant_id": 260,
+            "qdrant_id": 240,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 6,
             "numpy_id": 250,
-            "qdrant_id": 240,
+            "qdrant_id": 230,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
@@ -1272,7 +1272,7 @@
           {
             "rank": 7,
             "numpy_id": 260,
-            "qdrant_id": 290,
+            "qdrant_id": 270,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
@@ -1281,7 +1281,7 @@
           {
             "rank": 8,
             "numpy_id": 270,
-            "qdrant_id": 280,
+            "qdrant_id": 210,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
@@ -1290,11 +1290,11 @@
           {
             "rank": 9,
             "numpy_id": 280,
-            "qdrant_id": 230,
+            "qdrant_id": 280,
             "numpy_score": 0.677856981754303,
             "qdrant_score": 0.677857,
             "score_difference": 1.8245697064322997e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 10,
@@ -1318,7 +1318,7 @@
           {
             "rank": 1,
             "numpy_id": 300,
-            "qdrant_id": 390,
+            "qdrant_id": 360,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1327,7 +1327,7 @@
           {
             "rank": 2,
             "numpy_id": 310,
-            "qdrant_id": 340,
+            "qdrant_id": 380,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1336,7 +1336,7 @@
           {
             "rank": 3,
             "numpy_id": 320,
-            "qdrant_id": 300,
+            "qdrant_id": 310,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1345,7 +1345,7 @@
           {
             "rank": 4,
             "numpy_id": 330,
-            "qdrant_id": 370,
+            "qdrant_id": 320,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1354,7 +1354,7 @@
           {
             "rank": 5,
             "numpy_id": 340,
-            "qdrant_id": 360,
+            "qdrant_id": 300,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1363,16 +1363,16 @@
           {
             "rank": 6,
             "numpy_id": 350,
-            "qdrant_id": 350,
+            "qdrant_id": 330,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 7,
             "numpy_id": 360,
-            "qdrant_id": 320,
+            "qdrant_id": 350,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1381,7 +1381,7 @@
           {
             "rank": 8,
             "numpy_id": 370,
-            "qdrant_id": 380,
+            "qdrant_id": 340,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1390,7 +1390,7 @@
           {
             "rank": 9,
             "numpy_id": 380,
-            "qdrant_id": 310,
+            "qdrant_id": 370,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
@@ -1399,11 +1399,11 @@
           {
             "rank": 10,
             "numpy_id": 390,
-            "qdrant_id": 330,
+            "qdrant_id": 390,
             "numpy_score": 0.5385238528251648,
             "qdrant_score": 0.5385238,
             "score_difference": 5.2825164797987156e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           }
         ]
       },
@@ -1418,7 +1418,7 @@
           {
             "rank": 1,
             "numpy_id": 401,
-            "qdrant_id": 481,
+            "qdrant_id": 461,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1427,7 +1427,7 @@
           {
             "rank": 2,
             "numpy_id": 411,
-            "qdrant_id": 441,
+            "qdrant_id": 491,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1436,7 +1436,7 @@
           {
             "rank": 3,
             "numpy_id": 421,
-            "qdrant_id": 491,
+            "qdrant_id": 451,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1445,7 +1445,7 @@
           {
             "rank": 4,
             "numpy_id": 431,
-            "qdrant_id": 401,
+            "qdrant_id": 421,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1454,7 +1454,7 @@
           {
             "rank": 5,
             "numpy_id": 441,
-            "qdrant_id": 471,
+            "qdrant_id": 481,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1463,16 +1463,16 @@
           {
             "rank": 6,
             "numpy_id": 451,
-            "qdrant_id": 451,
+            "qdrant_id": 471,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 7,
             "numpy_id": 461,
-            "qdrant_id": 411,
+            "qdrant_id": 401,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1481,7 +1481,7 @@
           {
             "rank": 8,
             "numpy_id": 471,
-            "qdrant_id": 461,
+            "qdrant_id": 411,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1490,7 +1490,7 @@
           {
             "rank": 9,
             "numpy_id": 481,
-            "qdrant_id": 421,
+            "qdrant_id": 441,
             "numpy_score": 0.620575487613678,
             "qdrant_score": 0.6205755,
             "score_difference": 1.2386321968094194e-08,
@@ -1518,7 +1518,7 @@
           {
             "rank": 1,
             "numpy_id": 500,
-            "qdrant_id": 540,
+            "qdrant_id": 570,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1527,16 +1527,16 @@
           {
             "rank": 2,
             "numpy_id": 510,
-            "qdrant_id": 510,
+            "qdrant_id": 500,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 3,
             "numpy_id": 520,
-            "qdrant_id": 500,
+            "qdrant_id": 510,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1545,7 +1545,7 @@
           {
             "rank": 4,
             "numpy_id": 530,
-            "qdrant_id": 520,
+            "qdrant_id": 550,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1554,7 +1554,7 @@
           {
             "rank": 5,
             "numpy_id": 540,
-            "qdrant_id": 530,
+            "qdrant_id": 580,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1563,7 +1563,7 @@
           {
             "rank": 6,
             "numpy_id": 550,
-            "qdrant_id": 590,
+            "qdrant_id": 520,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1581,7 +1581,7 @@
           {
             "rank": 8,
             "numpy_id": 570,
-            "qdrant_id": 550,
+            "qdrant_id": 530,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
@@ -1590,20 +1590,20 @@
           {
             "rank": 9,
             "numpy_id": 580,
-            "qdrant_id": 580,
-            "numpy_score": 0.6196893453598022,
-            "qdrant_score": 0.61968935,
-            "score_difference": 4.6401977815691e-09,
-            "match_status": "MATCH"
-          },
-          {
-            "rank": 10,
-            "numpy_id": 590,
-            "qdrant_id": 570,
+            "qdrant_id": 540,
             "numpy_score": 0.6196893453598022,
             "qdrant_score": 0.61968935,
             "score_difference": 4.6401977815691e-09,
             "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 590,
+            "qdrant_id": 590,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "MATCH"
           }
         ]
       },
@@ -1618,7 +1618,7 @@
           {
             "rank": 1,
             "numpy_id": 601,
-            "qdrant_id": 681,
+            "qdrant_id": 671,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1627,7 +1627,7 @@
           {
             "rank": 2,
             "numpy_id": 611,
-            "qdrant_id": 631,
+            "qdrant_id": 601,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1636,16 +1636,16 @@
           {
             "rank": 3,
             "numpy_id": 621,
-            "qdrant_id": 691,
+            "qdrant_id": 621,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 4,
             "numpy_id": 631,
-            "qdrant_id": 671,
+            "qdrant_id": 611,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1654,7 +1654,7 @@
           {
             "rank": 5,
             "numpy_id": 641,
-            "qdrant_id": 661,
+            "qdrant_id": 651,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1663,7 +1663,7 @@
           {
             "rank": 6,
             "numpy_id": 651,
-            "qdrant_id": 621,
+            "qdrant_id": 641,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1672,16 +1672,16 @@
           {
             "rank": 7,
             "numpy_id": 661,
-            "qdrant_id": 611,
+            "qdrant_id": 661,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 8,
             "numpy_id": 671,
-            "qdrant_id": 641,
+            "qdrant_id": 631,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
@@ -1690,20 +1690,20 @@
           {
             "rank": 9,
             "numpy_id": 681,
-            "qdrant_id": 651,
+            "qdrant_id": 681,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 10,
             "numpy_id": 691,
-            "qdrant_id": 601,
+            "qdrant_id": 691,
             "numpy_score": 0.6299188733100891,
             "qdrant_score": 0.6299189,
             "score_difference": 2.6689910836985575e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           }
         ]
       },
@@ -1718,7 +1718,7 @@
           {
             "rank": 1,
             "numpy_id": 700,
-            "qdrant_id": 780,
+            "qdrant_id": 770,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1727,7 +1727,7 @@
           {
             "rank": 2,
             "numpy_id": 710,
-            "qdrant_id": 720,
+            "qdrant_id": 750,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1745,16 +1745,16 @@
           {
             "rank": 4,
             "numpy_id": 730,
-            "qdrant_id": 730,
+            "qdrant_id": 780,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 5,
             "numpy_id": 740,
-            "qdrant_id": 700,
+            "qdrant_id": 720,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1763,7 +1763,7 @@
           {
             "rank": 6,
             "numpy_id": 750,
-            "qdrant_id": 790,
+            "qdrant_id": 760,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1772,7 +1772,7 @@
           {
             "rank": 7,
             "numpy_id": 760,
-            "qdrant_id": 770,
+            "qdrant_id": 790,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1781,7 +1781,7 @@
           {
             "rank": 8,
             "numpy_id": 770,
-            "qdrant_id": 710,
+            "qdrant_id": 730,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1790,7 +1790,7 @@
           {
             "rank": 9,
             "numpy_id": 780,
-            "qdrant_id": 760,
+            "qdrant_id": 700,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1799,7 +1799,7 @@
           {
             "rank": 10,
             "numpy_id": 790,
-            "qdrant_id": 750,
+            "qdrant_id": 710,
             "numpy_score": 0.6174832582473755,
             "qdrant_score": 0.61748326,
             "score_difference": 1.7526244899812582e-09,
@@ -1827,7 +1827,7 @@
           {
             "rank": 2,
             "numpy_id": 812,
-            "qdrant_id": 832,
+            "qdrant_id": 872,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1836,7 +1836,7 @@
           {
             "rank": 3,
             "numpy_id": 822,
-            "qdrant_id": 872,
+            "qdrant_id": 842,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1845,7 +1845,7 @@
           {
             "rank": 4,
             "numpy_id": 832,
-            "qdrant_id": 842,
+            "qdrant_id": 892,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1854,7 +1854,7 @@
           {
             "rank": 5,
             "numpy_id": 842,
-            "qdrant_id": 802,
+            "qdrant_id": 862,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1863,7 +1863,7 @@
           {
             "rank": 6,
             "numpy_id": 852,
-            "qdrant_id": 892,
+            "qdrant_id": 812,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1872,7 +1872,7 @@
           {
             "rank": 7,
             "numpy_id": 862,
-            "qdrant_id": 812,
+            "qdrant_id": 852,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1881,7 +1881,7 @@
           {
             "rank": 8,
             "numpy_id": 872,
-            "qdrant_id": 862,
+            "qdrant_id": 832,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1890,7 +1890,7 @@
           {
             "rank": 9,
             "numpy_id": 882,
-            "qdrant_id": 852,
+            "qdrant_id": 822,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1899,7 +1899,7 @@
           {
             "rank": 10,
             "numpy_id": 892,
-            "qdrant_id": 822,
+            "qdrant_id": 802,
             "numpy_score": 0.5803791880607605,
             "qdrant_score": 0.5803792,
             "score_difference": 1.193923948594744e-08,
@@ -1918,7 +1918,7 @@
           {
             "rank": 1,
             "numpy_id": 900,
-            "qdrant_id": 990,
+            "qdrant_id": 980,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1927,7 +1927,7 @@
           {
             "rank": 2,
             "numpy_id": 910,
-            "qdrant_id": 940,
+            "qdrant_id": 950,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1936,7 +1936,7 @@
           {
             "rank": 3,
             "numpy_id": 920,
-            "qdrant_id": 950,
+            "qdrant_id": 910,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1945,7 +1945,7 @@
           {
             "rank": 4,
             "numpy_id": 930,
-            "qdrant_id": 900,
+            "qdrant_id": 990,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1954,7 +1954,7 @@
           {
             "rank": 5,
             "numpy_id": 940,
-            "qdrant_id": 920,
+            "qdrant_id": 900,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1963,7 +1963,7 @@
           {
             "rank": 6,
             "numpy_id": 950,
-            "qdrant_id": 930,
+            "qdrant_id": 920,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1972,7 +1972,7 @@
           {
             "rank": 7,
             "numpy_id": 960,
-            "qdrant_id": 970,
+            "qdrant_id": 930,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1981,7 +1981,7 @@
           {
             "rank": 8,
             "numpy_id": 970,
-            "qdrant_id": 910,
+            "qdrant_id": 960,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1990,7 +1990,7 @@
           {
             "rank": 9,
             "numpy_id": 980,
-            "qdrant_id": 960,
+            "qdrant_id": 970,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -1999,7 +1999,7 @@
           {
             "rank": 10,
             "numpy_id": 990,
-            "qdrant_id": 980,
+            "qdrant_id": 940,
             "numpy_score": 0.6604796648025513,
             "qdrant_score": 0.66047966,
             "score_difference": 4.8025512455751596e-09,
@@ -2223,7 +2223,7 @@
           {
             "rank": 1,
             "numpy_id": 200,
-            "qdrant_id": 210,
+            "qdrant_id": 270,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -2241,7 +2241,7 @@
           {
             "rank": 3,
             "numpy_id": 220,
-            "qdrant_id": 240,
+            "qdrant_id": 230,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -2250,7 +2250,7 @@
           {
             "rank": 4,
             "numpy_id": 230,
-            "qdrant_id": 290,
+            "qdrant_id": 260,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -2277,25 +2277,25 @@
           {
             "rank": 7,
             "numpy_id": 260,
-            "qdrant_id": 260,
+            "qdrant_id": 290,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 8,
             "numpy_id": 270,
-            "qdrant_id": 270,
+            "qdrant_id": 240,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 9,
             "numpy_id": 280,
-            "qdrant_id": 230,
+            "qdrant_id": 210,
             "numpy_score": 0.7702550888061523,
             "qdrant_score": 0.77025497,
             "score_difference": 1.1880615236048442e-07,
@@ -2323,7 +2323,7 @@
           {
             "rank": 1,
             "numpy_id": 300,
-            "qdrant_id": 330,
+            "qdrant_id": 320,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2332,7 +2332,7 @@
           {
             "rank": 2,
             "numpy_id": 310,
-            "qdrant_id": 390,
+            "qdrant_id": 350,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2341,7 +2341,7 @@
           {
             "rank": 3,
             "numpy_id": 320,
-            "qdrant_id": 360,
+            "qdrant_id": 340,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2350,7 +2350,7 @@
           {
             "rank": 4,
             "numpy_id": 330,
-            "qdrant_id": 380,
+            "qdrant_id": 390,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2359,16 +2359,16 @@
           {
             "rank": 5,
             "numpy_id": 340,
-            "qdrant_id": 340,
+            "qdrant_id": 360,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 6,
             "numpy_id": 350,
-            "qdrant_id": 310,
+            "qdrant_id": 300,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2377,7 +2377,7 @@
           {
             "rank": 7,
             "numpy_id": 360,
-            "qdrant_id": 320,
+            "qdrant_id": 310,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2386,16 +2386,16 @@
           {
             "rank": 8,
             "numpy_id": 370,
-            "qdrant_id": 370,
+            "qdrant_id": 380,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 9,
             "numpy_id": 380,
-            "qdrant_id": 300,
+            "qdrant_id": 330,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2404,7 +2404,7 @@
           {
             "rank": 10,
             "numpy_id": 390,
-            "qdrant_id": 350,
+            "qdrant_id": 370,
             "numpy_score": 0.8549959659576416,
             "qdrant_score": 0.85499597,
             "score_difference": 4.042358447975403e-09,
@@ -2423,7 +2423,7 @@
           {
             "rank": 1,
             "numpy_id": 401,
-            "qdrant_id": 491,
+            "qdrant_id": 421,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2432,7 +2432,7 @@
           {
             "rank": 2,
             "numpy_id": 411,
-            "qdrant_id": 481,
+            "qdrant_id": 461,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2441,7 +2441,7 @@
           {
             "rank": 3,
             "numpy_id": 421,
-            "qdrant_id": 431,
+            "qdrant_id": 471,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2450,7 +2450,7 @@
           {
             "rank": 4,
             "numpy_id": 431,
-            "qdrant_id": 461,
+            "qdrant_id": 411,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2459,16 +2459,16 @@
           {
             "rank": 5,
             "numpy_id": 441,
-            "qdrant_id": 471,
+            "qdrant_id": 441,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 6,
             "numpy_id": 451,
-            "qdrant_id": 411,
+            "qdrant_id": 431,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2477,7 +2477,7 @@
           {
             "rank": 7,
             "numpy_id": 461,
-            "qdrant_id": 441,
+            "qdrant_id": 401,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2486,7 +2486,7 @@
           {
             "rank": 8,
             "numpy_id": 471,
-            "qdrant_id": 401,
+            "qdrant_id": 491,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2504,7 +2504,7 @@
           {
             "rank": 10,
             "numpy_id": 491,
-            "qdrant_id": 421,
+            "qdrant_id": 481,
             "numpy_score": 0.8074429035186768,
             "qdrant_score": 0.807443,
             "score_difference": 9.648132326400827e-08,
@@ -2523,7 +2523,7 @@
           {
             "rank": 1,
             "numpy_id": 510,
-            "qdrant_id": 580,
+            "qdrant_id": 520,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2532,7 +2532,7 @@
           {
             "rank": 2,
             "numpy_id": 520,
-            "qdrant_id": 530,
+            "qdrant_id": 560,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2541,7 +2541,7 @@
           {
             "rank": 3,
             "numpy_id": 530,
-            "qdrant_id": 570,
+            "qdrant_id": 590,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2550,7 +2550,7 @@
           {
             "rank": 4,
             "numpy_id": 540,
-            "qdrant_id": 550,
+            "qdrant_id": 510,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2559,7 +2559,7 @@
           {
             "rank": 5,
             "numpy_id": 550,
-            "qdrant_id": 540,
+            "qdrant_id": 500,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2568,7 +2568,7 @@
           {
             "rank": 6,
             "numpy_id": 560,
-            "qdrant_id": 590,
+            "qdrant_id": 530,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2577,7 +2577,7 @@
           {
             "rank": 7,
             "numpy_id": 570,
-            "qdrant_id": 510,
+            "qdrant_id": 580,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2586,7 +2586,7 @@
           {
             "rank": 8,
             "numpy_id": 580,
-            "qdrant_id": 560,
+            "qdrant_id": 550,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2595,7 +2595,7 @@
           {
             "rank": 9,
             "numpy_id": 590,
-            "qdrant_id": 520,
+            "qdrant_id": 540,
             "numpy_score": 0.8079922795295715,
             "qdrant_score": 0.80799234,
             "score_difference": 6.047042844237183e-08,
@@ -2604,11 +2604,11 @@
           {
             "rank": 10,
             "numpy_id": 500,
-            "qdrant_id": 500,
+            "qdrant_id": 570,
             "numpy_score": 0.8079921007156372,
             "qdrant_score": 0.80799234,
             "score_difference": 2.392843627685437e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           }
         ]
       },
@@ -2623,16 +2623,16 @@
           {
             "rank": 1,
             "numpy_id": 601,
-            "qdrant_id": 671,
+            "qdrant_id": 601,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 2,
             "numpy_id": 611,
-            "qdrant_id": 681,
+            "qdrant_id": 631,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2641,7 +2641,7 @@
           {
             "rank": 3,
             "numpy_id": 621,
-            "qdrant_id": 691,
+            "qdrant_id": 681,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2650,7 +2650,7 @@
           {
             "rank": 4,
             "numpy_id": 631,
-            "qdrant_id": 661,
+            "qdrant_id": 641,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2659,7 +2659,7 @@
           {
             "rank": 5,
             "numpy_id": 641,
-            "qdrant_id": 631,
+            "qdrant_id": 611,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2668,7 +2668,7 @@
           {
             "rank": 6,
             "numpy_id": 651,
-            "qdrant_id": 601,
+            "qdrant_id": 691,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2677,7 +2677,7 @@
           {
             "rank": 7,
             "numpy_id": 661,
-            "qdrant_id": 651,
+            "qdrant_id": 621,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2686,7 +2686,7 @@
           {
             "rank": 8,
             "numpy_id": 671,
-            "qdrant_id": 621,
+            "qdrant_id": 651,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2695,7 +2695,7 @@
           {
             "rank": 9,
             "numpy_id": 681,
-            "qdrant_id": 611,
+            "qdrant_id": 671,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2704,7 +2704,7 @@
           {
             "rank": 10,
             "numpy_id": 691,
-            "qdrant_id": 641,
+            "qdrant_id": 661,
             "numpy_score": 0.8016009330749512,
             "qdrant_score": 0.80160105,
             "score_difference": 1.1692504886529065e-07,
@@ -2723,7 +2723,7 @@
           {
             "rank": 1,
             "numpy_id": 700,
-            "qdrant_id": 760,
+            "qdrant_id": 710,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2732,16 +2732,16 @@
           {
             "rank": 2,
             "numpy_id": 710,
-            "qdrant_id": 710,
+            "qdrant_id": 770,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 3,
             "numpy_id": 720,
-            "qdrant_id": 780,
+            "qdrant_id": 760,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2750,16 +2750,16 @@
           {
             "rank": 4,
             "numpy_id": 730,
-            "qdrant_id": 730,
+            "qdrant_id": 720,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           },
           {
             "rank": 5,
             "numpy_id": 740,
-            "qdrant_id": 770,
+            "qdrant_id": 750,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2768,7 +2768,7 @@
           {
             "rank": 6,
             "numpy_id": 750,
-            "qdrant_id": 700,
+            "qdrant_id": 730,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2777,7 +2777,7 @@
           {
             "rank": 7,
             "numpy_id": 760,
-            "qdrant_id": 750,
+            "qdrant_id": 780,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2786,7 +2786,7 @@
           {
             "rank": 8,
             "numpy_id": 770,
-            "qdrant_id": 740,
+            "qdrant_id": 790,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2795,7 +2795,7 @@
           {
             "rank": 9,
             "numpy_id": 780,
-            "qdrant_id": 720,
+            "qdrant_id": 700,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
@@ -2804,11 +2804,11 @@
           {
             "rank": 10,
             "numpy_id": 790,
-            "qdrant_id": 790,
+            "qdrant_id": 740,
             "numpy_score": 0.8093574047088623,
             "qdrant_score": 0.8093573,
             "score_difference": 1.0470886235847132e-07,
-            "match_status": "MATCH"
+            "match_status": "ID_TIE"
           }
         ]
       },
@@ -2823,7 +2823,7 @@
           {
             "rank": 1,
             "numpy_id": 832,
-            "qdrant_id": 892,
+            "qdrant_id": 842,
             "numpy_score": 0.8315801620483398,
             "qdrant_score": 0.83157986,
             "score_difference": 3.020483398952223e-07,
@@ -2832,7 +2832,7 @@
           {
             "rank": 2,
             "numpy_id": 802,
-            "qdrant_id": 882,
+            "qdrant_id": 872,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2841,7 +2841,7 @@
           {
             "rank": 3,
             "numpy_id": 812,
-            "qdrant_id": 842,
+            "qdrant_id": 892,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2850,7 +2850,7 @@
           {
             "rank": 4,
             "numpy_id": 822,
-            "qdrant_id": 832,
+            "qdrant_id": 862,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2868,7 +2868,7 @@
           {
             "rank": 6,
             "numpy_id": 852,
-            "qdrant_id": 812,
+            "qdrant_id": 882,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2877,7 +2877,7 @@
           {
             "rank": 7,
             "numpy_id": 862,
-            "qdrant_id": 802,
+            "qdrant_id": 812,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2886,7 +2886,7 @@
           {
             "rank": 8,
             "numpy_id": 872,
-            "qdrant_id": 852,
+            "qdrant_id": 802,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2895,7 +2895,7 @@
           {
             "rank": 9,
             "numpy_id": 882,
-            "qdrant_id": 862,
+            "qdrant_id": 852,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2904,7 +2904,7 @@
           {
             "rank": 10,
             "numpy_id": 892,
-            "qdrant_id": 872,
+            "qdrant_id": 832,
             "numpy_score": 0.8315800428390503,
             "qdrant_score": 0.83157986,
             "score_difference": 1.8283905034444103e-07,
@@ -2923,7 +2923,7 @@
           {
             "rank": 1,
             "numpy_id": 900,
-            "qdrant_id": 950,
+            "qdrant_id": 910,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2932,7 +2932,7 @@
           {
             "rank": 2,
             "numpy_id": 910,
-            "qdrant_id": 990,
+            "qdrant_id": 920,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2941,7 +2941,7 @@
           {
             "rank": 3,
             "numpy_id": 920,
-            "qdrant_id": 960,
+            "qdrant_id": 940,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2950,16 +2950,16 @@
           {
             "rank": 4,
             "numpy_id": 930,
-            "qdrant_id": 910,
+            "qdrant_id": 930,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 5,
             "numpy_id": 940,
-            "qdrant_id": 930,
+            "qdrant_id": 970,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2968,7 +2968,7 @@
           {
             "rank": 6,
             "numpy_id": 950,
-            "qdrant_id": 900,
+            "qdrant_id": 980,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2977,16 +2977,16 @@
           {
             "rank": 7,
             "numpy_id": 960,
-            "qdrant_id": 980,
+            "qdrant_id": 960,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
-            "match_status": "ID_TIE"
+            "match_status": "MATCH"
           },
           {
             "rank": 8,
             "numpy_id": 970,
-            "qdrant_id": 940,
+            "qdrant_id": 990,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -2995,7 +2995,7 @@
           {
             "rank": 9,
             "numpy_id": 980,
-            "qdrant_id": 970,
+            "qdrant_id": 900,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
@@ -3004,7 +3004,7 @@
           {
             "rank": 10,
             "numpy_id": 990,
-            "qdrant_id": 920,
+            "qdrant_id": 950,
             "numpy_score": 0.7818833589553833,
             "qdrant_score": 0.78188324,
             "score_difference": 1.1895538332140632e-07,
