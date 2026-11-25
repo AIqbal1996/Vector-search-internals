@@ -1,0 +1,97 @@
+{
+  "query": [
+    2,
+    4
+  ],
+  "query_magnitude": 4.47213595499958,
+  "points": {
+    "A": {
+      "coordinates": [
+        2,
+        3
+      ],
+      "magnitude": 3.605551275463989,
+      "coord_difference": [
+        0.0,
+        1.0
+      ],
+      "squared_differences": [
+        0.0,
+        1.0
+      ],
+      "squared_euclidean_distance": 1.0,
+      "euclidean_distance": 1.0,
+      "dot_product": 16.0,
+      "cosine_similarity": 0.9922778767136677
+    },
+    "B": {
+      "coordinates": [
+        1,
+        2
+      ],
+      "magnitude": 2.23606797749979,
+      "coord_difference": [
+        1.0,
+        2.0
+      ],
+      "squared_differences": [
+        1.0,
+        4.0
+      ],
+      "squared_euclidean_distance": 5.0,
+      "euclidean_distance": 2.23606797749979,
+      "dot_product": 10.0,
+      "cosine_similarity": 0.9999999999999998
+    },
+    "C": {
+      "coordinates": [
+        0,
+        4
+      ],
+      "magnitude": 4.0,
+      "coord_difference": [
+        2.0,
+        0.0
+      ],
+      "squared_differences": [
+        4.0,
+        0.0
+      ],
+      "squared_euclidean_distance": 4.0,
+      "euclidean_distance": 2.0,
+      "dot_product": 16.0,
+      "cosine_similarity": 0.8944271909999159
+    }
+  },
+  "rankings": {
+    "euclidean": {
+      "order": [
+        "A",
+        "C",
+        "B"
+      ],
+      "ranking_string": "A -> C -> B",
+      "expected": [
+        "A",
+        "C",
+        "B"
+      ],
+      "matches_expected": true
+    },
+    "cosine": {
+      "order": [
+        "B",
+        "A",
+        "C"
+      ],
+      "ranking_string": "B -> A -> C",
+      "expected": [
+        "B",
+        "A",
+        "C"
+      ],
+      "matches_expected": true
+    }
+  },
+  "explanation": "WHY DO THE RANKINGS DIFFER?\n1. Euclidean Distance measures STRAIGHT-LINE GEOMETRIC DISTANCE in space.\n   - Point A (2, 3) differs from Query (2, 4) by only 1 unit along the y-axis.\n     Distance = sqrt((2-2)\u00b2 + (4-3)\u00b2) = sqrt(1) = 1.000000. It is physically closest!\n   - Point C (0, 4) differs by 2 units along the x-axis: sqrt((2-0)\u00b2 + (4-4)\u00b2) = 2.000000.\n   - Point B (1, 2) has Euclidean distance sqrt((2-1)\u00b2 + (4-2)\u00b2) = sqrt(5) \u2248 2.236068, making it physically furthest.\n\n2. Cosine Similarity measures THE ANGLE (DIRECTION) between vectors, ignoring magnitude.\n   - Notice that Query (2, 4) is an exact scalar multiple of Point B (1, 2): (2, 4) = 2 * (1, 2).\n   - The angle \u03b8 between vector B and Query Q is exactly 0\u00b0! cos(0\u00b0) = 1.000000.\n   - Because Cosine Similarity measures directional alignment, Point B achieves a PERFECT score of 1.000000,\n     even though Point B is the furthest in Euclidean distance!\n   - Point A (2, 3) is at a small angle \u03b8 \u2248 7.125\u00b0 from (2, 4), yielding cos(\u03b8) \u2248 0.992278.\n   - Point C (0, 4) lies along the y-axis at \u03b8 \u2248 26.565\u00b0 from (2, 4), yielding cos(\u03b8) \u2248 0.894427.\n\nKEY TAKEAWAY:\n- Use Euclidean distance when the magnitude of values represents physical scale, intensity, or magnitude.\n- Use Cosine similarity when semantic direction matters regardless of document/vector length."
+}

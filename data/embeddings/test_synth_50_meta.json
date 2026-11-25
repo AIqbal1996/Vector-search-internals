@@ -1,0 +1,9 @@
+{
+  "dataset_type": "SYNTHETIC_BENCHMARK",
+  "model_identifier": "synthetic_gaussian_unit_sphere",
+  "dimension": 128,
+  "count": 50,
+  "seed": 42,
+  "is_real_gemini": false,
+  "note": "Separately labeled synthetic dataset for fair scale benchmarking."
+}

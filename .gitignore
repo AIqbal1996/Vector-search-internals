@@ -1,0 +1,34 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Vector Database Storage
+qdrant_storage/
+
+# Large Datasets (>100MB GitHub limit, regenerated via scripts/generate_embeddings.py)
+data/embeddings/*10000*
+*.npy_bak
+
+# OS Files
+.DS_Store
+Thumbs.db

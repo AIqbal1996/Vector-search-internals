@@ -1,0 +1,3017 @@
+{
+  "cosine": {
+    "mean_recall_at_k": 1.0,
+    "query_evaluations": [
+      {
+        "query_id": 0,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 1.7715194700063108e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 0,
+            "qdrant_id": 0,
+            "numpy_score": 0.802797794342041,
+            "qdrant_score": 0.8027978,
+            "score_difference": 5.657958990212819e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 20,
+            "qdrant_id": 20,
+            "numpy_score": 0.8006706833839417,
+            "qdrant_score": 0.8006706,
+            "score_difference": 8.338394164031371e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 90,
+            "qdrant_id": 90,
+            "numpy_score": 0.7982687950134277,
+            "qdrant_score": 0.7982688,
+            "score_difference": 4.986572266219014e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 30,
+            "qdrant_id": 30,
+            "numpy_score": 0.7968093156814575,
+            "qdrant_score": 0.79680943,
+            "score_difference": 1.1431854252119678e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 40,
+            "qdrant_id": 40,
+            "numpy_score": 0.7962038516998291,
+            "qdrant_score": 0.7962037,
+            "score_difference": 1.516998291428706e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 50,
+            "qdrant_id": 50,
+            "numpy_score": 0.7952883243560791,
+            "qdrant_score": 0.7952882,
+            "score_difference": 1.2435607910088464e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 10,
+            "qdrant_id": 10,
+            "numpy_score": 0.7950471043586731,
+            "qdrant_score": 0.79504704,
+            "score_difference": 6.435867305754073e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 70,
+            "qdrant_id": 70,
+            "numpy_score": 0.7924813628196716,
+            "qdrant_score": 0.7924814,
+            "score_difference": 3.718032837163321e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 60,
+            "qdrant_id": 60,
+            "numpy_score": 0.788512647151947,
+            "qdrant_score": 0.78851247,
+            "score_difference": 1.7715194700063108e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 80,
+            "qdrant_id": 80,
+            "numpy_score": 0.7824555039405823,
+            "qdrant_score": 0.78245544,
+            "score_difference": 6.394058227332522e-08,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 1,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 2.247100829855242e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 151,
+            "qdrant_id": 151,
+            "numpy_score": 0.7689098119735718,
+            "qdrant_score": 0.7689098,
+            "score_difference": 1.1973571800716343e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 141,
+            "qdrant_id": 141,
+            "numpy_score": 0.7651681303977966,
+            "qdrant_score": 0.7651681,
+            "score_difference": 3.039779661317965e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 111,
+            "qdrant_id": 111,
+            "numpy_score": 0.7651085257530212,
+            "qdrant_score": 0.76510835,
+            "score_difference": 1.757530212476155e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 171,
+            "qdrant_id": 171,
+            "numpy_score": 0.7642405033111572,
+            "qdrant_score": 0.7642404,
+            "score_difference": 1.03311157184649e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 121,
+            "qdrant_id": 121,
+            "numpy_score": 0.764207124710083,
+            "qdrant_score": 0.7642069,
+            "score_difference": 2.247100829855242e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 161,
+            "qdrant_id": 161,
+            "numpy_score": 0.7624573707580566,
+            "qdrant_score": 0.76245725,
+            "score_difference": 1.2075805666533768e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 181,
+            "qdrant_id": 181,
+            "numpy_score": 0.7610006928443909,
+            "qdrant_score": 0.76100063,
+            "score_difference": 6.284439091341909e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 101,
+            "qdrant_id": 101,
+            "numpy_score": 0.7603585124015808,
+            "qdrant_score": 0.7603587,
+            "score_difference": 1.875984192434288e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 191,
+            "qdrant_id": 191,
+            "numpy_score": 0.7582751512527466,
+            "qdrant_score": 0.75827503,
+            "score_difference": 1.2125274662100338e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 131,
+            "qdrant_id": 131,
+            "numpy_score": 0.7510154843330383,
+            "qdrant_score": 0.7510153,
+            "score_difference": 1.8433303827780634e-07,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 2,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.1880615236048442e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 200,
+            "qdrant_id": 250,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 210,
+            "qdrant_id": 220,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 220,
+            "qdrant_id": 270,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 230,
+            "qdrant_id": 280,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 240,
+            "qdrant_id": 290,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 250,
+            "qdrant_id": 260,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 260,
+            "qdrant_id": 230,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 270,
+            "qdrant_id": 240,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 280,
+            "qdrant_id": 210,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 290,
+            "qdrant_id": 200,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 3,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 5.556228632741522e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 300,
+            "qdrant_id": 390,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 310,
+            "qdrant_id": 380,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 320,
+            "qdrant_id": 300,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 330,
+            "qdrant_id": 320,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 340,
+            "qdrant_id": 340,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 350,
+            "qdrant_id": 330,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 360,
+            "qdrant_id": 310,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 370,
+            "qdrant_id": 360,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 380,
+            "qdrant_id": 350,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 390,
+            "qdrant_id": 370,
+            "numpy_score": 0.8549960255622864,
+            "qdrant_score": 0.85499597,
+            "score_difference": 5.556228632741522e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 4,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 2.2727966286772983e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 401,
+            "qdrant_id": 451,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 411,
+            "qdrant_id": 471,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 421,
+            "qdrant_id": 431,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 431,
+            "qdrant_id": 441,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 441,
+            "qdrant_id": 491,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 451,
+            "qdrant_id": 411,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 461,
+            "qdrant_id": 481,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 471,
+            "qdrant_id": 421,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 481,
+            "qdrant_id": 401,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 491,
+            "qdrant_id": 461,
+            "numpy_score": 0.8074430227279663,
+            "qdrant_score": 0.807443,
+            "score_difference": 2.2727966286772983e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 5,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.2007507321776245e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 510,
+            "qdrant_id": 510,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 520,
+            "qdrant_id": 580,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 530,
+            "qdrant_id": 500,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 540,
+            "qdrant_id": 590,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 550,
+            "qdrant_id": 540,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 560,
+            "qdrant_id": 530,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 570,
+            "qdrant_id": 520,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 580,
+            "qdrant_id": 550,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 590,
+            "qdrant_id": 570,
+            "numpy_score": 0.8079923987388611,
+            "qdrant_score": 0.80799234,
+            "score_difference": 5.8738861108409424e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 500,
+            "qdrant_id": 560,
+            "numpy_score": 0.8079922199249268,
+            "qdrant_score": 0.80799234,
+            "score_difference": 1.2007507321776245e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 6,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 5.7320404089900023e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 601,
+            "qdrant_id": 611,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 611,
+            "qdrant_id": 601,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 621,
+            "qdrant_id": 651,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 631,
+            "qdrant_id": 681,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 641,
+            "qdrant_id": 631,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 651,
+            "qdrant_id": 661,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 661,
+            "qdrant_id": 671,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 671,
+            "qdrant_id": 641,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 681,
+            "qdrant_id": 621,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 691,
+            "qdrant_id": 691,
+            "numpy_score": 0.801600992679596,
+            "qdrant_score": 0.80160105,
+            "score_difference": 5.7320404089900023e-08,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 7,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.0470886235847132e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 700,
+            "qdrant_id": 760,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 710,
+            "qdrant_id": 770,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 720,
+            "qdrant_id": 710,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 730,
+            "qdrant_id": 750,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 740,
+            "qdrant_id": 700,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 750,
+            "qdrant_id": 720,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 760,
+            "qdrant_id": 780,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 770,
+            "qdrant_id": 740,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 780,
+            "qdrant_id": 790,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 790,
+            "qdrant_id": 730,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 8,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 3.616529846706129e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 832,
+            "qdrant_id": 812,
+            "numpy_score": 0.8315802216529846,
+            "qdrant_score": 0.83157986,
+            "score_difference": 3.616529846706129e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 802,
+            "qdrant_id": 872,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 812,
+            "qdrant_id": 842,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 822,
+            "qdrant_id": 862,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 842,
+            "qdrant_id": 882,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 852,
+            "qdrant_id": 852,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 862,
+            "qdrant_id": 832,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 872,
+            "qdrant_id": 892,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 882,
+            "qdrant_id": 802,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 892,
+            "qdrant_id": 822,
+            "numpy_score": 0.8315801024436951,
+            "qdrant_score": 0.83157986,
+            "score_difference": 2.4244369511983166e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 9,
+        "metric": "cosine",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 2.3816467287218757e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 900,
+            "qdrant_id": 930,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 910,
+            "qdrant_id": 910,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 920,
+            "qdrant_id": 950,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 930,
+            "qdrant_id": 900,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 940,
+            "qdrant_id": 990,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 950,
+            "qdrant_id": 980,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 960,
+            "qdrant_id": 960,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 970,
+            "qdrant_id": 970,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 980,
+            "qdrant_id": 920,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 990,
+            "qdrant_id": 940,
+            "numpy_score": 0.7818834781646729,
+            "qdrant_score": 0.78188324,
+            "score_difference": 2.3816467287218757e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      }
+    ]
+  },
+  "euclidean": {
+    "mean_recall_at_k": 1.0,
+    "query_evaluations": [
+      {
+        "query_id": 0,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 8.242721560858257e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 0,
+            "qdrant_id": 0,
+            "numpy_score": 0.6280159950256348,
+            "qdrant_score": 0.628016,
+            "score_difference": 4.974365253040958e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 20,
+            "qdrant_id": 20,
+            "numpy_score": 0.6313940286636353,
+            "qdrant_score": 0.631394,
+            "score_difference": 2.866363524312021e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 90,
+            "qdrant_id": 90,
+            "numpy_score": 0.6351869702339172,
+            "qdrant_score": 0.63518703,
+            "score_difference": 5.976608274949058e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 30,
+            "qdrant_id": 30,
+            "numpy_score": 0.6374804973602295,
+            "qdrant_score": 0.63748056,
+            "score_difference": 6.263977048170943e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 40,
+            "qdrant_id": 40,
+            "numpy_score": 0.6384298205375671,
+            "qdrant_score": 0.63842976,
+            "score_difference": 6.053756718138459e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 50,
+            "qdrant_id": 50,
+            "numpy_score": 0.6398620009422302,
+            "qdrant_score": 0.639862,
+            "score_difference": 9.422301827655133e-10,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 10,
+            "qdrant_id": 10,
+            "numpy_score": 0.6402389407157898,
+            "qdrant_score": 0.64023894,
+            "score_difference": 7.157897607967811e-10,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 70,
+            "qdrant_id": 70,
+            "numpy_score": 0.6442338824272156,
+            "qdrant_score": 0.6442338,
+            "score_difference": 8.242721560858257e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 60,
+            "qdrant_id": 60,
+            "numpy_score": 0.6503651142120361,
+            "qdrant_score": 0.6503651,
+            "score_difference": 1.4212036103522507e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 80,
+            "qdrant_id": 80,
+            "numpy_score": 0.6596127152442932,
+            "qdrant_score": 0.6596127,
+            "score_difference": 1.524429316113185e-08,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 1,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 5.698379512697471e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 151,
+            "qdrant_id": 151,
+            "numpy_score": 0.6798387169837952,
+            "qdrant_score": 0.67983866,
+            "score_difference": 5.698379512697471e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 141,
+            "qdrant_id": 141,
+            "numpy_score": 0.6853201389312744,
+            "qdrant_score": 0.68532014,
+            "score_difference": 1.0687255524999273e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 111,
+            "qdrant_id": 111,
+            "numpy_score": 0.6854074001312256,
+            "qdrant_score": 0.6854074,
+            "score_difference": 1.3122558595313194e-10,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 171,
+            "qdrant_id": 171,
+            "numpy_score": 0.686672568321228,
+            "qdrant_score": 0.68667257,
+            "score_difference": 1.678772010293983e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 121,
+            "qdrant_id": 121,
+            "numpy_score": 0.6867210865020752,
+            "qdrant_score": 0.6867211,
+            "score_difference": 1.3497924777894355e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 161,
+            "qdrant_id": 161,
+            "numpy_score": 0.6892642378807068,
+            "qdrant_score": 0.68926424,
+            "score_difference": 2.1192931853875052e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 181,
+            "qdrant_id": 181,
+            "numpy_score": 0.6913745403289795,
+            "qdrant_score": 0.69137454,
+            "score_difference": 3.28979510300087e-10,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 101,
+            "qdrant_id": 101,
+            "numpy_score": 0.6923026442527771,
+            "qdrant_score": 0.6923027,
+            "score_difference": 5.5747222948987485e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 191,
+            "qdrant_id": 191,
+            "numpy_score": 0.6953057050704956,
+            "qdrant_score": 0.6953057,
+            "score_difference": 5.070495578962664e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 131,
+            "qdrant_id": 131,
+            "numpy_score": 0.7056692838668823,
+            "qdrant_score": 0.7056693,
+            "score_difference": 1.6133117730632307e-08,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 2,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.8245697064322997e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 200,
+            "qdrant_id": 220,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 210,
+            "qdrant_id": 210,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 220,
+            "qdrant_id": 250,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 230,
+            "qdrant_id": 270,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 240,
+            "qdrant_id": 260,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 250,
+            "qdrant_id": 240,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 260,
+            "qdrant_id": 290,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 270,
+            "qdrant_id": 280,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 280,
+            "qdrant_id": 230,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 290,
+            "qdrant_id": 200,
+            "numpy_score": 0.677856981754303,
+            "qdrant_score": 0.677857,
+            "score_difference": 1.8245697064322997e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 3,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 5.2825164797987156e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 300,
+            "qdrant_id": 390,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 310,
+            "qdrant_id": 340,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 320,
+            "qdrant_id": 300,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 330,
+            "qdrant_id": 370,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 340,
+            "qdrant_id": 360,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 350,
+            "qdrant_id": 350,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 360,
+            "qdrant_id": 320,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 370,
+            "qdrant_id": 380,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 380,
+            "qdrant_id": 310,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 390,
+            "qdrant_id": 330,
+            "numpy_score": 0.5385238528251648,
+            "qdrant_score": 0.5385238,
+            "score_difference": 5.2825164797987156e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 4,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.2386321968094194e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 401,
+            "qdrant_id": 481,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 411,
+            "qdrant_id": 441,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 421,
+            "qdrant_id": 491,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 431,
+            "qdrant_id": 401,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 441,
+            "qdrant_id": 471,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 451,
+            "qdrant_id": 451,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 461,
+            "qdrant_id": 411,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 471,
+            "qdrant_id": 461,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 481,
+            "qdrant_id": 421,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 491,
+            "qdrant_id": 431,
+            "numpy_score": 0.620575487613678,
+            "qdrant_score": 0.6205755,
+            "score_difference": 1.2386321968094194e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 5,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 4.6401977815691e-09,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 500,
+            "qdrant_id": 540,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 510,
+            "qdrant_id": 510,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 520,
+            "qdrant_id": 500,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 530,
+            "qdrant_id": 520,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 540,
+            "qdrant_id": 530,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 550,
+            "qdrant_id": 590,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 560,
+            "qdrant_id": 560,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 570,
+            "qdrant_id": 550,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 580,
+            "qdrant_id": 580,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 590,
+            "qdrant_id": 570,
+            "numpy_score": 0.6196893453598022,
+            "qdrant_score": 0.61968935,
+            "score_difference": 4.6401977815691e-09,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 6,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 2.6689910836985575e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 601,
+            "qdrant_id": 681,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 611,
+            "qdrant_id": 631,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 621,
+            "qdrant_id": 691,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 631,
+            "qdrant_id": 671,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 641,
+            "qdrant_id": 661,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 651,
+            "qdrant_id": 621,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 661,
+            "qdrant_id": 611,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 671,
+            "qdrant_id": 641,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 681,
+            "qdrant_id": 651,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 691,
+            "qdrant_id": 601,
+            "numpy_score": 0.6299188733100891,
+            "qdrant_score": 0.6299189,
+            "score_difference": 2.6689910836985575e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 7,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.7526244899812582e-09,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 700,
+            "qdrant_id": 780,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 710,
+            "qdrant_id": 720,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 720,
+            "qdrant_id": 740,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 730,
+            "qdrant_id": 730,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 740,
+            "qdrant_id": 700,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 750,
+            "qdrant_id": 790,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 760,
+            "qdrant_id": 770,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 770,
+            "qdrant_id": 710,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 780,
+            "qdrant_id": 760,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 790,
+            "qdrant_id": 750,
+            "numpy_score": 0.6174832582473755,
+            "qdrant_score": 0.61748326,
+            "score_difference": 1.7526244899812582e-09,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 8,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.193923948594744e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 802,
+            "qdrant_id": 882,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 812,
+            "qdrant_id": 832,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 822,
+            "qdrant_id": 872,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 832,
+            "qdrant_id": 842,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 842,
+            "qdrant_id": 802,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 852,
+            "qdrant_id": 892,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 862,
+            "qdrant_id": 812,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 872,
+            "qdrant_id": 862,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 882,
+            "qdrant_id": 852,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 892,
+            "qdrant_id": 822,
+            "numpy_score": 0.5803791880607605,
+            "qdrant_score": 0.5803792,
+            "score_difference": 1.193923948594744e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 9,
+        "metric": "euclidean",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 4.8025512455751596e-09,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 900,
+            "qdrant_id": 990,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 910,
+            "qdrant_id": 940,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 920,
+            "qdrant_id": 950,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 930,
+            "qdrant_id": 900,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 940,
+            "qdrant_id": 920,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 950,
+            "qdrant_id": 930,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 960,
+            "qdrant_id": 970,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 970,
+            "qdrant_id": 910,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 980,
+            "qdrant_id": 960,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 990,
+            "qdrant_id": 980,
+            "numpy_score": 0.6604796648025513,
+            "qdrant_score": 0.66047966,
+            "score_difference": 4.8025512455751596e-09,
+            "match_status": "ID_TIE"
+          }
+        ]
+      }
+    ]
+  },
+  "dot": {
+    "mean_recall_at_k": 1.0,
+    "query_evaluations": [
+      {
+        "query_id": 0,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 1.2486724854099407e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 0,
+            "qdrant_id": 0,
+            "numpy_score": 0.8027976751327515,
+            "qdrant_score": 0.8027978,
+            "score_difference": 1.2486724854099407e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 20,
+            "qdrant_id": 20,
+            "numpy_score": 0.8006706237792969,
+            "qdrant_score": 0.8006706,
+            "score_difference": 2.3779296864923083e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 90,
+            "qdrant_id": 90,
+            "numpy_score": 0.7982689142227173,
+            "qdrant_score": 0.7982688,
+            "score_difference": 1.1422271728456224e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 30,
+            "qdrant_id": 30,
+            "numpy_score": 0.7968093156814575,
+            "qdrant_score": 0.79680943,
+            "score_difference": 1.1431854252119678e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 40,
+            "qdrant_id": 40,
+            "numpy_score": 0.7962037920951843,
+            "qdrant_score": 0.7962037,
+            "score_difference": 9.209518436747999e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 50,
+            "qdrant_id": 50,
+            "numpy_score": 0.7952882051467896,
+            "qdrant_score": 0.7952882,
+            "score_difference": 5.146789550103392e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 10,
+            "qdrant_id": 10,
+            "numpy_score": 0.7950470447540283,
+            "qdrant_score": 0.79504704,
+            "score_difference": 4.754028282150102e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 70,
+            "qdrant_id": 70,
+            "numpy_score": 0.7924813628196716,
+            "qdrant_score": 0.7924814,
+            "score_difference": 3.718032837163321e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 60,
+            "qdrant_id": 60,
+            "numpy_score": 0.7885125875473022,
+            "qdrant_score": 0.78851247,
+            "score_difference": 1.1754730222524046e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 80,
+            "qdrant_id": 80,
+            "numpy_score": 0.7824554443359375,
+            "qdrant_score": 0.78245544,
+            "score_difference": 4.335937497934594e-09,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 1,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": true,
+        "max_score_difference": 1.311828613514976e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 151,
+            "qdrant_id": 151,
+            "numpy_score": 0.7689099311828613,
+            "qdrant_score": 0.7689098,
+            "score_difference": 1.311828613514976e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 141,
+            "qdrant_id": 141,
+            "numpy_score": 0.7651681303977966,
+            "qdrant_score": 0.7651681,
+            "score_difference": 3.039779661317965e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 111,
+            "qdrant_id": 111,
+            "numpy_score": 0.7651084661483765,
+            "qdrant_score": 0.76510835,
+            "score_difference": 1.1614837647222487e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 171,
+            "qdrant_id": 171,
+            "numpy_score": 0.7642404437065125,
+            "qdrant_score": 0.7642404,
+            "score_difference": 4.370651240925838e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 121,
+            "qdrant_id": 121,
+            "numpy_score": 0.7642070055007935,
+            "qdrant_score": 0.7642069,
+            "score_difference": 1.0550079343474295e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 161,
+            "qdrant_id": 161,
+            "numpy_score": 0.7624573111534119,
+            "qdrant_score": 0.76245725,
+            "score_difference": 6.115341188994705e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 181,
+            "qdrant_id": 181,
+            "numpy_score": 0.7610006928443909,
+            "qdrant_score": 0.76100063,
+            "score_difference": 6.284439091341909e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 101,
+            "qdrant_id": 101,
+            "numpy_score": 0.7603586316108704,
+            "qdrant_score": 0.7603587,
+            "score_difference": 6.838912969264754e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 191,
+            "qdrant_id": 191,
+            "numpy_score": 0.7582750916481018,
+            "qdrant_score": 0.75827503,
+            "score_difference": 6.164810184561276e-08,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 131,
+            "qdrant_id": 131,
+            "numpy_score": 0.7510153651237488,
+            "qdrant_score": 0.7510153,
+            "score_difference": 6.512374872702509e-08,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 2,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.1880615236048442e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 200,
+            "qdrant_id": 210,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 210,
+            "qdrant_id": 220,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 220,
+            "qdrant_id": 240,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 230,
+            "qdrant_id": 290,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 240,
+            "qdrant_id": 250,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 250,
+            "qdrant_id": 280,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 260,
+            "qdrant_id": 260,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 270,
+            "qdrant_id": 270,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 280,
+            "qdrant_id": 230,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 290,
+            "qdrant_id": 200,
+            "numpy_score": 0.7702550888061523,
+            "qdrant_score": 0.77025497,
+            "score_difference": 1.1880615236048442e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 3,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 4.042358447975403e-09,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 300,
+            "qdrant_id": 330,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 310,
+            "qdrant_id": 390,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 320,
+            "qdrant_id": 360,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 330,
+            "qdrant_id": 380,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 340,
+            "qdrant_id": 340,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 350,
+            "qdrant_id": 310,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 360,
+            "qdrant_id": 320,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 370,
+            "qdrant_id": 370,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 380,
+            "qdrant_id": 300,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 390,
+            "qdrant_id": 350,
+            "numpy_score": 0.8549959659576416,
+            "qdrant_score": 0.85499597,
+            "score_difference": 4.042358447975403e-09,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 4,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 9.648132326400827e-08,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 401,
+            "qdrant_id": 491,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 411,
+            "qdrant_id": 481,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 421,
+            "qdrant_id": 431,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 431,
+            "qdrant_id": 461,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 441,
+            "qdrant_id": 471,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 451,
+            "qdrant_id": 411,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 461,
+            "qdrant_id": 441,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 471,
+            "qdrant_id": 401,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 481,
+            "qdrant_id": 451,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 491,
+            "qdrant_id": 421,
+            "numpy_score": 0.8074429035186768,
+            "qdrant_score": 0.807443,
+            "score_difference": 9.648132326400827e-08,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 5,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 2.392843627685437e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 510,
+            "qdrant_id": 580,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 520,
+            "qdrant_id": 530,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 530,
+            "qdrant_id": 570,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 540,
+            "qdrant_id": 550,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 550,
+            "qdrant_id": 540,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 560,
+            "qdrant_id": 590,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 570,
+            "qdrant_id": 510,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 580,
+            "qdrant_id": 560,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 590,
+            "qdrant_id": 520,
+            "numpy_score": 0.8079922795295715,
+            "qdrant_score": 0.80799234,
+            "score_difference": 6.047042844237183e-08,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 500,
+            "qdrant_id": 500,
+            "numpy_score": 0.8079921007156372,
+            "qdrant_score": 0.80799234,
+            "score_difference": 2.392843627685437e-07,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 6,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.1692504886529065e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 601,
+            "qdrant_id": 671,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 611,
+            "qdrant_id": 681,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 621,
+            "qdrant_id": 691,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 631,
+            "qdrant_id": 661,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 641,
+            "qdrant_id": 631,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 651,
+            "qdrant_id": 601,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 661,
+            "qdrant_id": 651,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 671,
+            "qdrant_id": 621,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 681,
+            "qdrant_id": 611,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 691,
+            "qdrant_id": 641,
+            "numpy_score": 0.8016009330749512,
+            "qdrant_score": 0.80160105,
+            "score_difference": 1.1692504886529065e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 7,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.0470886235847132e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 700,
+            "qdrant_id": 760,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 710,
+            "qdrant_id": 710,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 720,
+            "qdrant_id": 780,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 730,
+            "qdrant_id": 730,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "MATCH"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 740,
+            "qdrant_id": 770,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 750,
+            "qdrant_id": 700,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 760,
+            "qdrant_id": 750,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 770,
+            "qdrant_id": 740,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 780,
+            "qdrant_id": 720,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 790,
+            "qdrant_id": 790,
+            "numpy_score": 0.8093574047088623,
+            "qdrant_score": 0.8093573,
+            "score_difference": 1.0470886235847132e-07,
+            "match_status": "MATCH"
+          }
+        ]
+      },
+      {
+        "query_id": 8,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 3.020483398952223e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 832,
+            "qdrant_id": 892,
+            "numpy_score": 0.8315801620483398,
+            "qdrant_score": 0.83157986,
+            "score_difference": 3.020483398952223e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 802,
+            "qdrant_id": 882,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 812,
+            "qdrant_id": 842,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 822,
+            "qdrant_id": 832,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 842,
+            "qdrant_id": 822,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 852,
+            "qdrant_id": 812,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 862,
+            "qdrant_id": 802,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 872,
+            "qdrant_id": 852,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 882,
+            "qdrant_id": 862,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 892,
+            "qdrant_id": 872,
+            "numpy_score": 0.8315800428390503,
+            "qdrant_score": 0.83157986,
+            "score_difference": 1.8283905034444103e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      },
+      {
+        "query_id": 9,
+        "metric": "dot",
+        "k": 10,
+        "recall_at_k": 1.0,
+        "rank_order_match": false,
+        "max_score_difference": 1.1895538332140632e-07,
+        "rank_rows": [
+          {
+            "rank": 1,
+            "numpy_id": 900,
+            "qdrant_id": 950,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 2,
+            "numpy_id": 910,
+            "qdrant_id": 990,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 3,
+            "numpy_id": 920,
+            "qdrant_id": 960,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 4,
+            "numpy_id": 930,
+            "qdrant_id": 910,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 5,
+            "numpy_id": 940,
+            "qdrant_id": 930,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 6,
+            "numpy_id": 950,
+            "qdrant_id": 900,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 7,
+            "numpy_id": 960,
+            "qdrant_id": 980,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 8,
+            "numpy_id": 970,
+            "qdrant_id": 940,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 9,
+            "numpy_id": 980,
+            "qdrant_id": 970,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          },
+          {
+            "rank": 10,
+            "numpy_id": 990,
+            "qdrant_id": 920,
+            "numpy_score": 0.7818833589553833,
+            "qdrant_score": 0.78188324,
+            "score_difference": 1.1895538332140632e-07,
+            "match_status": "ID_TIE"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": 0,
+    "text": "Detect rapid micro-transactions and unauthorized overseas payment fraud",
+    "target_domain": "Fraud Detection"
+  },
+  {
+    "query_id": 1,
+    "text": "International wire transfers and real-time ACH payment processing",
+    "target_domain": "Banking Transactions"
+  },
+  {
+    "query_id": 2,
+    "text": "Credit card credit limit increase and cash back rewards program",
+    "target_domain": "Credit Cards"
+  },
+  {
+    "query_id": 3,
+    "text": "Residential mortgage debt-to-income underwriting ratio guidelines",
+    "target_domain": "Loan Policies"
+  },
+  {
+    "query_id": 4,
+    "text": "Two-factor authentication and biometric passkey login security",
+    "target_domain": "Customer Authentication"
+  },
+  {
+    "query_id": 5,
+    "text": "Anti-money laundering suspicious activity reports and OFAC sanctions compliance",
+    "target_domain": "Financial Compliance"
+  },
+  {
+    "query_id": 6,
+    "text": "Transaction monitoring algorithms for high velocity structuring and cash deposits",
+    "target_domain": "Transaction Monitoring"
+  },
+  {
+    "query_id": 7,
+    "text": "Joint bank account signatory authorization and certificate of deposit renewals",
+    "target_domain": "Account Management"
+  },
+  {
+    "query_id": 8,
+    "text": "Basel III capital adequacy ratios and commercial real estate stress testing",
+    "target_domain": "Risk Assessment"
+  },
+  {
+    "query_id": 9,
+    "text": "Distributed denial of service attacks and web application firewall security rules",
+    "target_domain": "Cybersecurity"
+  }
+]

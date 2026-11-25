@@ -1,0 +1,89 @@
+{
+  "dataset_type": "classroom_2d",
+  "raw_query": [
+    2.0,
+    4.0
+  ],
+  "normalized_query": [
+    0.4472135901451111,
+    0.8944271802902222
+  ],
+  "points": {
+    "A": {
+      "raw_coords": [
+        2.0,
+        3.0
+      ],
+      "raw_magnitude": 3.605551242828369,
+      "normalized_coords": [
+        0.5547001957893372,
+        0.8320503234863281
+      ],
+      "normalized_magnitude": 1.0,
+      "raw_dot_product": 16.0,
+      "cosine_similarity": 0.9922778606414795,
+      "normalized_dot_product": 0.9922778606414795,
+      "normalized_euclidean": 0.12427486479282379,
+      "theoretical_euclidean": 0.12427501380443573
+    },
+    "B": {
+      "raw_coords": [
+        1.0,
+        2.0
+      ],
+      "raw_magnitude": 2.2360680103302,
+      "normalized_coords": [
+        0.4472135901451111,
+        0.8944271802902222
+      ],
+      "normalized_magnitude": 0.9999999403953552,
+      "raw_dot_product": 10.0,
+      "cosine_similarity": 1.0,
+      "normalized_dot_product": 0.9999999403953552,
+      "normalized_euclidean": 0.0,
+      "theoretical_euclidean": 0.0
+    },
+    "C": {
+      "raw_coords": [
+        0.0,
+        4.0
+      ],
+      "raw_magnitude": 4.0,
+      "normalized_coords": [
+        0.0,
+        1.0
+      ],
+      "normalized_magnitude": 1.0,
+      "raw_dot_product": 16.0,
+      "cosine_similarity": 0.8944271802902222,
+      "normalized_dot_product": 0.8944271802902222,
+      "normalized_euclidean": 0.4595058262348175,
+      "theoretical_euclidean": 0.4595058560371399
+    }
+  },
+  "rankings": {
+    "raw_dot": [
+      "A",
+      "C",
+      "B"
+    ],
+    "cosine": [
+      "B",
+      "A",
+      "C"
+    ],
+    "normalized_dot": [
+      "B",
+      "A",
+      "C"
+    ],
+    "normalized_euclidean": [
+      "B",
+      "A",
+      "C"
+    ],
+    "rankings_equivalent": true
+  },
+  "max_score_difference": 5.960464477539063e-08,
+  "max_euclid_formula_difference": 1.4901161193847656e-07
+}

@@ -1,0 +1,7 @@
+{
+  "model": "gemini-embedding-2",
+  "dimension": 3072,
+  "count": 10,
+  "created_at": 1795598657.1013281,
+  "source": "EURI_GEMINI_API"
+}

@@ -1,0 +1,2171 @@
+{
+  "dataset_size": 1000,
+  "dimension": 3072,
+  "query_count": 10,
+  "cosine": {
+    "0": [
+      {
+        "rank": 1,
+        "id": 0,
+        "score": 0.802797794342041,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1000: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 2,
+        "id": 20,
+        "score": 0.8006706833839417,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1020: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 3,
+        "id": 90,
+        "score": 0.7982687950134277,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1090: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 4,
+        "id": 30,
+        "score": 0.7968093156814575,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1030: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 5,
+        "id": 40,
+        "score": 0.7962038516998291,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1040: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 6,
+        "id": 50,
+        "score": 0.7952883243560791,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1050: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 7,
+        "id": 10,
+        "score": 0.7950471043586731,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1010: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 8,
+        "id": 70,
+        "score": 0.7924813628196716,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1070: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 9,
+        "id": 60,
+        "score": 0.788512647151947,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1060: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 10,
+        "id": 80,
+        "score": 0.7824555039405823,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1080: r...",
+        "domain": "Fraud Detection"
+      }
+    ],
+    "1": [
+      {
+        "rank": 1,
+        "id": 151,
+        "score": 0.7689098119735718,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1237.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 2,
+        "id": 141,
+        "score": 0.7651681303977966,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $867.00 ...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 3,
+        "id": 111,
+        "score": 0.7651085257530212,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4257.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 4,
+        "id": 171,
+        "score": 0.7642405033111572,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1977.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 5,
+        "id": 121,
+        "score": 0.764207124710083,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4627.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 6,
+        "id": 161,
+        "score": 0.7624573707580566,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1607.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 7,
+        "id": 181,
+        "score": 0.7610006928443909,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2347.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 8,
+        "id": 101,
+        "score": 0.7603585124015808,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $3887.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 9,
+        "id": 191,
+        "score": 0.7582751512527466,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2717.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 10,
+        "id": 131,
+        "score": 0.7510154843330383,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $497.00 ...",
+        "domain": "Banking Transactions"
+      }
+    ],
+    "2": [
+      {
+        "rank": 1,
+        "id": 200,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 2,
+        "id": 210,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 3,
+        "id": 220,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 4,
+        "id": 230,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 5,
+        "id": 240,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 6,
+        "id": 250,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 7,
+        "id": 260,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 8,
+        "id": 270,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 9,
+        "id": 280,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 10,
+        "id": 290,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      }
+    ],
+    "3": [
+      {
+        "rank": 1,
+        "id": 300,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 2,
+        "id": 310,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 3,
+        "id": 320,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 4,
+        "id": 330,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 5,
+        "id": 340,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 6,
+        "id": 350,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 7,
+        "id": 360,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 8,
+        "id": 370,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 9,
+        "id": 380,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 10,
+        "id": 390,
+        "score": 0.8549960255622864,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      }
+    ],
+    "4": [
+      {
+        "rank": 1,
+        "id": 401,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 2,
+        "id": 411,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 3,
+        "id": 421,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 4,
+        "id": 431,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 5,
+        "id": 441,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 6,
+        "id": 451,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 7,
+        "id": 461,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 8,
+        "id": 471,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 9,
+        "id": 481,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 10,
+        "id": 491,
+        "score": 0.8074430227279663,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      }
+    ],
+    "5": [
+      {
+        "rank": 1,
+        "id": 510,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 2,
+        "id": 520,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 3,
+        "id": 530,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 4,
+        "id": 540,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 5,
+        "id": 550,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 6,
+        "id": 560,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 7,
+        "id": 570,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 8,
+        "id": 580,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 9,
+        "id": 590,
+        "score": 0.8079923987388611,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 10,
+        "id": 500,
+        "score": 0.8079922199249268,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      }
+    ],
+    "6": [
+      {
+        "rank": 1,
+        "id": 601,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 2,
+        "id": 611,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 3,
+        "id": 621,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 4,
+        "id": 631,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 5,
+        "id": 641,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 6,
+        "id": 651,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 7,
+        "id": 661,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 8,
+        "id": 671,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 9,
+        "id": 681,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 10,
+        "id": 691,
+        "score": 0.801600992679596,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      }
+    ],
+    "7": [
+      {
+        "rank": 1,
+        "id": 700,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 2,
+        "id": 710,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 3,
+        "id": 720,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 4,
+        "id": 730,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 5,
+        "id": 740,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 6,
+        "id": 750,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 7,
+        "id": 760,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 8,
+        "id": 770,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 9,
+        "id": 780,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 10,
+        "id": 790,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      }
+    ],
+    "8": [
+      {
+        "rank": 1,
+        "id": 832,
+        "score": 0.8315802216529846,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 2,
+        "id": 802,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 3,
+        "id": 812,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 4,
+        "id": 822,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 5,
+        "id": 842,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 6,
+        "id": 852,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 7,
+        "id": 862,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 8,
+        "id": 872,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 9,
+        "id": 882,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 10,
+        "id": 892,
+        "score": 0.8315801024436951,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      }
+    ],
+    "9": [
+      {
+        "rank": 1,
+        "id": 900,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 2,
+        "id": 910,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 3,
+        "id": 920,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 4,
+        "id": 930,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 5,
+        "id": 940,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 6,
+        "id": 950,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 7,
+        "id": 960,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 8,
+        "id": 970,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 9,
+        "id": 980,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 10,
+        "id": 990,
+        "score": 0.7818834781646729,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      }
+    ]
+  },
+  "euclidean": {
+    "0": [
+      {
+        "rank": 1,
+        "id": 0,
+        "score": 0.6280159950256348,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1000: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 2,
+        "id": 20,
+        "score": 0.6313940286636353,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1020: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 3,
+        "id": 90,
+        "score": 0.6351869702339172,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1090: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 4,
+        "id": 30,
+        "score": 0.6374804973602295,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1030: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 5,
+        "id": 40,
+        "score": 0.6384298205375671,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1040: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 6,
+        "id": 50,
+        "score": 0.6398620009422302,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1050: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 7,
+        "id": 10,
+        "score": 0.6402389407157898,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1010: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 8,
+        "id": 70,
+        "score": 0.6442338824272156,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1070: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 9,
+        "id": 60,
+        "score": 0.6503651142120361,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1060: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 10,
+        "id": 80,
+        "score": 0.6596127152442932,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1080: r...",
+        "domain": "Fraud Detection"
+      }
+    ],
+    "1": [
+      {
+        "rank": 1,
+        "id": 151,
+        "score": 0.6798387169837952,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1237.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 2,
+        "id": 141,
+        "score": 0.6853201389312744,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $867.00 ...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 3,
+        "id": 111,
+        "score": 0.6854074001312256,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4257.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 4,
+        "id": 171,
+        "score": 0.686672568321228,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1977.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 5,
+        "id": 121,
+        "score": 0.6867210865020752,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4627.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 6,
+        "id": 161,
+        "score": 0.6892642378807068,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1607.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 7,
+        "id": 181,
+        "score": 0.6913745403289795,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2347.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 8,
+        "id": 101,
+        "score": 0.6923026442527771,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $3887.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 9,
+        "id": 191,
+        "score": 0.6953057050704956,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2717.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 10,
+        "id": 131,
+        "score": 0.7056692838668823,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $497.00 ...",
+        "domain": "Banking Transactions"
+      }
+    ],
+    "2": [
+      {
+        "rank": 1,
+        "id": 200,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 2,
+        "id": 210,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 3,
+        "id": 220,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 4,
+        "id": 230,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 5,
+        "id": 240,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 6,
+        "id": 250,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 7,
+        "id": 260,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 8,
+        "id": 270,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 9,
+        "id": 280,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 10,
+        "id": 290,
+        "score": 0.677856981754303,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      }
+    ],
+    "3": [
+      {
+        "rank": 1,
+        "id": 300,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 2,
+        "id": 310,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 3,
+        "id": 320,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 4,
+        "id": 330,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 5,
+        "id": 340,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 6,
+        "id": 350,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 7,
+        "id": 360,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 8,
+        "id": 370,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 9,
+        "id": 380,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 10,
+        "id": 390,
+        "score": 0.5385238528251648,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      }
+    ],
+    "4": [
+      {
+        "rank": 1,
+        "id": 401,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 2,
+        "id": 411,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 3,
+        "id": 421,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 4,
+        "id": 431,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 5,
+        "id": 441,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 6,
+        "id": 451,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 7,
+        "id": 461,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 8,
+        "id": 471,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 9,
+        "id": 481,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 10,
+        "id": 491,
+        "score": 0.620575487613678,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      }
+    ],
+    "5": [
+      {
+        "rank": 1,
+        "id": 500,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 2,
+        "id": 510,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 3,
+        "id": 520,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 4,
+        "id": 530,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 5,
+        "id": 540,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 6,
+        "id": 550,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 7,
+        "id": 560,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 8,
+        "id": 570,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 9,
+        "id": 580,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 10,
+        "id": 590,
+        "score": 0.6196893453598022,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      }
+    ],
+    "6": [
+      {
+        "rank": 1,
+        "id": 601,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 2,
+        "id": 611,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 3,
+        "id": 621,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 4,
+        "id": 631,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 5,
+        "id": 641,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 6,
+        "id": 651,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 7,
+        "id": 661,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 8,
+        "id": 671,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 9,
+        "id": 681,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 10,
+        "id": 691,
+        "score": 0.6299188733100891,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      }
+    ],
+    "7": [
+      {
+        "rank": 1,
+        "id": 700,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 2,
+        "id": 710,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 3,
+        "id": 720,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 4,
+        "id": 730,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 5,
+        "id": 740,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 6,
+        "id": 750,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 7,
+        "id": 760,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 8,
+        "id": 770,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 9,
+        "id": 780,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 10,
+        "id": 790,
+        "score": 0.6174832582473755,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      }
+    ],
+    "8": [
+      {
+        "rank": 1,
+        "id": 802,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 2,
+        "id": 812,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 3,
+        "id": 822,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 4,
+        "id": 832,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 5,
+        "id": 842,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 6,
+        "id": 852,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 7,
+        "id": 862,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 8,
+        "id": 872,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 9,
+        "id": 882,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 10,
+        "id": 892,
+        "score": 0.5803791880607605,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      }
+    ],
+    "9": [
+      {
+        "rank": 1,
+        "id": 900,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 2,
+        "id": 910,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 3,
+        "id": 920,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 4,
+        "id": 930,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 5,
+        "id": 940,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 6,
+        "id": 950,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 7,
+        "id": 960,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 8,
+        "id": 970,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 9,
+        "id": 980,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 10,
+        "id": 990,
+        "score": 0.6604796648025513,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      }
+    ]
+  },
+  "dot": {
+    "0": [
+      {
+        "rank": 1,
+        "id": 0,
+        "score": 0.8027976751327515,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1000: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 2,
+        "id": 20,
+        "score": 0.8006706237792969,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1020: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 3,
+        "id": 90,
+        "score": 0.7982689142227173,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1090: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 4,
+        "id": 30,
+        "score": 0.7968093156814575,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1030: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 5,
+        "id": 40,
+        "score": 0.7962037920951843,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1040: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 6,
+        "id": 50,
+        "score": 0.7952882051467896,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1050: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 7,
+        "id": 10,
+        "score": 0.7950470447540283,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1010: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 8,
+        "id": 70,
+        "score": 0.7924813628196716,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1070: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 9,
+        "id": 60,
+        "score": 0.7885125875473022,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1060: r...",
+        "domain": "Fraud Detection"
+      },
+      {
+        "rank": 10,
+        "id": 80,
+        "score": 0.7824554443359375,
+        "text_snippet": "Unusual transaction pattern detected on account ending in 1080: r...",
+        "domain": "Fraud Detection"
+      }
+    ],
+    "1": [
+      {
+        "rank": 1,
+        "id": 151,
+        "score": 0.7689099311828613,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1237.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 2,
+        "id": 141,
+        "score": 0.7651681303977966,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $867.00 ...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 3,
+        "id": 111,
+        "score": 0.7651084661483765,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4257.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 4,
+        "id": 171,
+        "score": 0.7642404437065125,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1977.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 5,
+        "id": 121,
+        "score": 0.7642070055007935,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $4627.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 6,
+        "id": 161,
+        "score": 0.7624573111534119,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $1607.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 7,
+        "id": 181,
+        "score": 0.7610006928443909,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2347.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 8,
+        "id": 101,
+        "score": 0.7603586316108704,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $3887.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 9,
+        "id": 191,
+        "score": 0.7582750916481018,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $2717.00...",
+        "domain": "Banking Transactions"
+      },
+      {
+        "rank": 10,
+        "id": 131,
+        "score": 0.7510153651237488,
+        "text_snippet": "International SWIFT MT103 wire instruction processed for $497.00 ...",
+        "domain": "Banking Transactions"
+      }
+    ],
+    "2": [
+      {
+        "rank": 1,
+        "id": 200,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 2,
+        "id": 210,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 3,
+        "id": 220,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 4,
+        "id": 230,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 5,
+        "id": 240,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 6,
+        "id": 250,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 7,
+        "id": 260,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 8,
+        "id": 270,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 9,
+        "id": 280,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      },
+      {
+        "rank": 10,
+        "id": 290,
+        "score": 0.7702550888061523,
+        "text_snippet": "Credit limit increase approved for Platinum Mastercard holder: re...",
+        "domain": "Credit Cards"
+      }
+    ],
+    "3": [
+      {
+        "rank": 1,
+        "id": 300,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 2,
+        "id": 310,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 3,
+        "id": 320,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 4,
+        "id": 330,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 5,
+        "id": 340,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 6,
+        "id": 350,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 7,
+        "id": 360,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 8,
+        "id": 370,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 9,
+        "id": 380,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      },
+      {
+        "rank": 10,
+        "id": 390,
+        "score": 0.8549959659576416,
+        "text_snippet": "Debt-to-income (DTI) ratio policy guideline: maximum qualifying t...",
+        "domain": "Loan Policies"
+      }
+    ],
+    "4": [
+      {
+        "rank": 1,
+        "id": 401,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 2,
+        "id": 411,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 3,
+        "id": 421,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 4,
+        "id": 431,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 5,
+        "id": 441,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 6,
+        "id": 451,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 7,
+        "id": 461,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 8,
+        "id": 471,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 9,
+        "id": 481,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      },
+      {
+        "rank": 10,
+        "id": 491,
+        "score": 0.8074429035186768,
+        "text_snippet": "FIDO2 biometric Passkey registration verified: client public key ...",
+        "domain": "Customer Authentication"
+      }
+    ],
+    "5": [
+      {
+        "rank": 1,
+        "id": 510,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 2,
+        "id": 520,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 3,
+        "id": 530,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 4,
+        "id": 540,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 5,
+        "id": 550,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 6,
+        "id": 560,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 7,
+        "id": 570,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 8,
+        "id": 580,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 9,
+        "id": 590,
+        "score": 0.8079922795295715,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      },
+      {
+        "rank": 10,
+        "id": 500,
+        "score": 0.8079921007156372,
+        "text_snippet": "Anti-Money Laundering (AML) suspicious activity report (SAR) file...",
+        "domain": "Financial Compliance"
+      }
+    ],
+    "6": [
+      {
+        "rank": 1,
+        "id": 601,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 2,
+        "id": 611,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 3,
+        "id": 621,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 4,
+        "id": 631,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 5,
+        "id": 641,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 6,
+        "id": 651,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 7,
+        "id": 661,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 8,
+        "id": 671,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 9,
+        "id": 681,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      },
+      {
+        "rank": 10,
+        "id": 691,
+        "score": 0.8016009330749512,
+        "text_snippet": "Structuring detection algorithm triggered: 4 cash deposits of $9,...",
+        "domain": "Transaction Monitoring"
+      }
+    ],
+    "7": [
+      {
+        "rank": 1,
+        "id": 700,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 2,
+        "id": 710,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 3,
+        "id": 720,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 4,
+        "id": 730,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 5,
+        "id": 740,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 6,
+        "id": 750,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 7,
+        "id": 760,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 8,
+        "id": 770,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 9,
+        "id": 780,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      },
+      {
+        "rank": 10,
+        "id": 790,
+        "score": 0.8093574047088623,
+        "text_snippet": "Joint checking account ownership modified: secondary signatory ad...",
+        "domain": "Account Management"
+      }
+    ],
+    "8": [
+      {
+        "rank": 1,
+        "id": 832,
+        "score": 0.8315801620483398,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 2,
+        "id": 802,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 3,
+        "id": 812,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 4,
+        "id": 822,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 5,
+        "id": 842,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 6,
+        "id": 852,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 7,
+        "id": 862,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 8,
+        "id": 872,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 9,
+        "id": 882,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      },
+      {
+        "rank": 10,
+        "id": 892,
+        "score": 0.8315800428390503,
+        "text_snippet": "Stress testing scenario: supervisory severely adverse scenario mo...",
+        "domain": "Risk Assessment"
+      }
+    ],
+    "9": [
+      {
+        "rank": 1,
+        "id": 900,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 2,
+        "id": 910,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 3,
+        "id": 920,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 4,
+        "id": 930,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 5,
+        "id": 940,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 6,
+        "id": 950,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 7,
+        "id": 960,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 8,
+        "id": 970,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 9,
+        "id": 980,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      },
+      {
+        "rank": 10,
+        "id": 990,
+        "score": 0.7818833589553833,
+        "text_snippet": "Distributed Denial of Service (DDoS) mitigation: scrubbing center...",
+        "domain": "Cybersecurity"
+      }
+    ]
+  }
+}
